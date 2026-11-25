@@ -1,0 +1,12 @@
+# PrompTugal: wake everything up, journalists and Vicky's team on account 6, brief the iOS app (25 Nov 2026)
+
+Dinis, in cl-6.maestro's session, about 23:25 UTC on 25 Nov 2026, word for word (voice; "the prompt to go" is PrompTugal):
+
+> "don't worry about all the stuff we had before. We can clean that up later because none of them are going to be wired up. So what I would like you to focus here, well, work with the, well, help the prompt to go. I'm going to now give instructions to the prompt to go to restart all the sessions here. And we need to see if we can actually need to create any new repos. But the first thing we need to do is wire up all the scheduling and start putting up all the regular updates because the website is a bit out of date now. So I really want to do that, and I want to have the journalists, and I want to also Vicky's journalist and team, so we need to replicate this here because Vicky doesn't have a lot of time now. So let's just replicate those environments here because I want this website to be as updated as possible. Because I'm not sure we said the good news is the iOS app has been approved. So now we need to make sure that the site is fully up to date because that feeds the iOS app. And in fact, we should be briefing the iOS app on things they can add there."
+
+## What follows
+
+1. **The old account-6 sessions are left alone** (the newsroom and sgit.ai ones); cleanup later. No handover of the newsroom accountant.
+2. **PrompTugal first.** Dinis instructs cl-6.conductor@PrompTugal.dinis himself to restart the sessions. cl-6.maestro supports it: the scheduling (wakes), regular updates, and any new repositories needed.
+3. **The journalists**, and **Vicky's journalist team replicated on account 6**: her temporary team (conductor.B@, reviewer@, journalist@, curator@, checker@, programme@, the journalists' desks, dev@ and weather@, all @PrompTugal.vicky, working in desks/*-vicky/ of PrompTugal__News__Website) becomes twins on account 6, named cl-6.<role>@PrompTugal.dinis, from their desks' files and debriefs (desks/conductor-vicky/debriefs/). Their old policy limits carry over until Dinis changes them (record 2026-11-10-vickys-reviewer-and-security in board/guidance/).
+4. **The iOS app has been approved.** promptugal.news feeds it, so the site must be fully current; the iOS app (PrompTugal/PrompTugal__App__iOS) gets a brief of what it can add.
