@@ -1,0 +1,15 @@
+{
+  "label": "infrastructure-claude-6",
+  "group": "agents",
+  "agent": "cl-6.infra@SovereignWebsite.dinis",
+  "title": "cl-6.infra",
+  "description": "The infrastructure agent of Dinis's Claude account 6: drafts and checks account 6's requests to SovereignWebsite__IaC. Its own home, with its key and its area under /factory/<owner>/<account>/, listed by the shared Infrastructure site.",
+  "kind": "owner",
+  "home": {
+    "role": "infrastructure",
+    "provider": "claude",
+    "number": 6
+  },
+  "pages": false,
+  "source": "Dinis Cruz, in cl-6.maestro@dinis's session (https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4), 25 Nov 2026: \"if there's needs to be new agents, new sort of new sessions to create, then let's create them, right? So new repos to create, then let's create them. And you might need to have the infra here for account 6.\" Drafted by cl-6.maestro@dinis."
+}

@@ -1,0 +1,15 @@
+{
+  "label": "counsel-claude-6",
+  "group": "agents",
+  "agent": "cl-6.counsel@dinis",
+  "title": "cl-6.counsel",
+  "description": "Counsel on Dinis's Claude account 6: brought into the decision panel for terms, licences and legal questions. Its own home, with its key and its area under /factory/<owner>/<account>/, listed by the shared Counsel site.",
+  "kind": "owner",
+  "home": {
+    "role": "counsel",
+    "provider": "claude",
+    "number": 6
+  },
+  "pages": false,
+  "source": "Dinis Cruz, in cl-6.maestro@dinis's session (https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4), 25 Nov 2026: \"if there's needs to be new agents, new sort of new sessions to create, then let's create them, right? So new repos to create, then let's create them. And you might need to have the infra here for account 6.\" Drafted by cl-6.maestro@dinis."
+}

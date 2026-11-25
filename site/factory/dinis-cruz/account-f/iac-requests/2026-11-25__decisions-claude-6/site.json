@@ -1,0 +1,15 @@
+{
+  "label": "decisions-claude-6",
+  "group": "agents",
+  "agent": "cl-6.decisions@dinis",
+  "title": "cl-6.decisions",
+  "description": "The decisions agent of Dinis's Claude account 6: gathers its asks, runs the panel, signs records once decisions.2 endorses its key. Its own home, with its key and its area under /factory/<owner>/<account>/, listed by the shared Decisions site.",
+  "kind": "owner",
+  "home": {
+    "role": "decisions",
+    "provider": "claude",
+    "number": 6
+  },
+  "pages": false,
+  "source": "Dinis Cruz, in cl-6.maestro@dinis's session (https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4), 25 Nov 2026: \"if there's needs to be new agents, new sort of new sessions to create, then let's create them, right? So new repos to create, then let's create them. And you might need to have the infra here for account 6.\" Drafted by cl-6.maestro@dinis."
+}
