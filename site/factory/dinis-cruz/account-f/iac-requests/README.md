@@ -1,6 +1,6 @@
 # Account 6's home requests for SovereignWebsite__IaC (drafted 25 Nov 2026)
 
-Seven requests in the IaC's own format (requests/README.md, "Per-account agent homes"), ready to copy as they are into SovereignWebsite__IaC requests/. Basis: Dinis, 25 Nov 2026, in cl-6.maestro's session: "So new repos to create, then let's create them. And you might need to have the infra here for account 6."
+Eight requests in the IaC's own format (requests/README.md, "Per-account agent homes"), ready to copy as they are into SovereignWebsite__IaC requests/. Basis: Dinis, 25 Nov 2026, in cl-6.maestro's session: "So new repos to create, then let's create them. And you might need to have the infra here for account 6."
 
 Only a factory agent may commit requests/** (policy/abp.json: factory.b, factory.c, factory.d, a.factory). Account 6 has none yet, so the routes are:
 
@@ -18,3 +18,4 @@ Then cl-6.infra@SovereignWebsite.dinis starts on Site__Agent__Infrastructure__Cl
 | accountant-claude-6 | Site__Agent__Accountant__Claude__6 | cl-6.accountant@dinis |
 | counsel-claude-6 | Site__Agent__Counsel__Claude__6 | cl-6.counsel@dinis |
 | studio-claude-6 | Site__Agent__Studio__Claude__6 | cl-6.studio@SovereignWebsite.dinis |
+| architect-claude-6 | Site__Agent__Architect__Claude__6 | cl-6.architect@dinis (name to confirm) |
