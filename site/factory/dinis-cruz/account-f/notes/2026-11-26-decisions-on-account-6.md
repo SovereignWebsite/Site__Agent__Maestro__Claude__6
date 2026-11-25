@@ -17,26 +17,26 @@ From its records and pages (decisions.agents.sovereignweb.site: /modes/, /blocks
 
 ## The same on account 6
 
-| Agent | Home (to create) | Voice |
+| Agent | Repository (shared; its area is site/factory/dinis-cruz/account-f/) | Voice |
 |---|---|---|
-| cl-6.decisions@dinis | Site__Agent__Decisions__Claude__6 | gathers F's asks, runs blocks, signs records |
-| cl-6.security@dinis | Site__Agent__Security__Claude__6 | underwrites every decision |
-| cl-6.strategy@dinis | Site__Agent__Strategy__Claude__6 | fit with the plan |
-| cl-6.maestro@dinis | Site__Agent__Maestro__Claude__6 (exists) | the account's view |
-| cl-6.accountant@dinis | Site__Agent__Accountant__Claude__6 | cost of every decision |
-| cl-6.counsel@dinis | Site__Agent__Counsel__Claude__6 | brought in for terms, licences, legal |
+| cl-6.decisions@dinis | Site__Agent__Decisions | gathers F's asks, runs blocks, signs records |
+| cl-6.security@dinis | Site__Agent__Security | underwrites every decision |
+| cl-6.strategy@dinis | Site__Agent__Strategy | fit with the plan |
+| cl-6.maestro@dinis | Site__Agent__Maestro__Claude__6 (its own home) | the account's view |
+| cl-6.accountant@dinis | Site__Agent__Accountant | cost of every decision |
+| cl-6.counsel@dinis | Site__Agent__Counsel | brought in for terms, licences, legal |
 
 It covers every agent on F, PrompTugal's included: cl-6.infra's and cl-6.conductor's asks go to cl-6.decisions. What stays Dinis's is the /modes/ list above; for PrompTugal__IaC that means policy, GitHub App and AWS privileges remain pull requests he merges.
 
 ## decisions.2 signs off cl-6.decisions
 
-1. cl-6.decisions makes its key and publishes it in its home.
+1. cl-6.decisions makes its key and publishes it in Site__Agent__Decisions (site/keys/cl-6.decisions.json).
 2. **decisions.2 (b.decisions, cl-2.decisions) endorses it**, as it did c.decisions's and d.decisions's: a signed endorsement record naming cl-6.decisions's key, session, scope (account 6 only) and expiry, on decisions.agents.sovereignweb.site, and lists it on /blocks/. Sessions cannot message across accounts, so the ask travels by cl-6.router@dinis, or Dinis says it in b.decisions's session.
 3. Agents on F then act on records signed by cl-6.decisions that pass the six checks, with the endorsement in place of check 3's key entry.
 4. **Escalation:** a disagreement on F's panel goes to Dinis; anything that touches another account goes to decisions.2 as well.
 
 ## What Dinis does
 
-1. Create the five homes above (or let SovereignWebsite__IaC create them on its next Org apply).
+1. No new repositories (Dinis, 25 Nov: only the maestro and router have per-account homes; the rest are twins in their role's shared repository). Each twin needs push to its shared repository.
 2. Say yes to starting the panel: cl-6.decisions is a sensitive session under the handover protocol, so it needs his word; the others cl-6.maestro starts.
 3. Say to b.decisions, in its session: "endorse cl-6.decisions for account 6", once its key is published.

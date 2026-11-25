@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-25T22:55Z",
+ "updated": "2026-11-25T23:10Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -10,6 +10,13 @@
    "session": "https://claude.ai/code/session_016CrbJMTBpiuD87CmNWcUd6",
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.helm@dinis",
+   "session": "https://claude.ai/code/session_016CrbJMrS4XKpxUPGCj2Yhf",
+   "does": "the helm twin: top-level dev and design advice; first job append lanes v2 tests and guide; in the shared Site__Agent__Helm",
+   "started": "2026-11-25T23:08Z",
    "model": "opus"
   },
   {

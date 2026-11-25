@@ -9,8 +9,11 @@ This home is current from now on; the shared site area keeps the history: https:
 
 - **Decisions on account 6** (Dinis, 25 Nov: "critical so that I don't have to approve everything here"): the decisions.2 workflow, with a panel of six on account 6 and decisions.2 endorsing cl-6.decisions. Design: notes/2026-11-26-decisions-on-account-6.md; prompts: start-prompts/cl-6.panel.md.
 
+- **cl-6.helm@dinis started 23:08 UTC** on the shared Site__Agent__Helm: append lanes v2 tests and the guide for our agents.
+- **Twins, not homes** (Dinis, 25 Nov): only maestro and router have __Claude__6 homes; every other role shares Site__Agent__<Role>.
+
 ## Waits on Dinis
 
-- The seven homes in iac-requests/ (infrastructure, decisions, security, strategy, accountant, counsel, studio) committed by a factory agent, or created by hand; his word to start cl-6.decisions (sensitive); his word to b.decisions to endorse it.
+- Push for account 6's twins to their shared repositories (Site__Agent__Decisions, Security, Strategy, Accountant, Counsel); his word to start cl-6.decisions (sensitive); his word to b.decisions to endorse it.
 
 - Whether to start the Sovereign Website studio session now, on Site__Agent__Studio.
