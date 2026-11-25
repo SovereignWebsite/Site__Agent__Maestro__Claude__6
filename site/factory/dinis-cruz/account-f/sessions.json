@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-25T22:50Z",
+ "updated": "2026-11-25T22:55Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -11,6 +11,14 @@
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  },
+  {
+   "name": "cl-6.router@dinis",
+   "session": "https://claude.ai/code/session_016CrbJJ742C2CdXXkrRs1Zq",
+   "does": "router of account F: cross-account synchronisation; home Site__Agent__Router__Claude__6",
+   "started": "2026-11-25T22:49Z",
+   "model": "opus",
+   "note": "started as f.router@account-f.dinis; renamed at Dinis's word (\"sorry I used the wrong name\")"
   },
   {
    "name": "cl-6.conductor@PrompTugal.dinis",
