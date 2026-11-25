@@ -12,8 +12,10 @@ This home is current from now on; the shared site area keeps the history: https:
 - **cl-6.helm@dinis started 23:08 UTC** on the shared Site__Agent__Helm: append lanes v2 tests and the guide for our agents.
 - **Twins, not homes** (Dinis, 25 Nov): only maestro and router have __Claude__6 homes; every other role shares Site__Agent__<Role>.
 
+- **The decision panel started 23:15 UTC** (Dinis: "yes, start the decision panel"): cl-6.decisions, cl-6.security, cl-6.strategy, cl-6.accountant, each its own session in its role's shared repository, with cl-6.maestro the fifth voice; cl-6.counsel when a decision needs it. See sessions.json.
+
 ## Waits on Dinis
 
-- Push for account 6's twins to their shared repositories (Site__Agent__Decisions, Security, Strategy, Accountant, Counsel); his word to start cl-6.decisions (sensitive); his word to b.decisions to endorse it.
+- Push for account 6's twins to their shared repositories (Site__Agent__Decisions, Security, Strategy, Accountant, Counsel); his word to b.decisions to endorse it.
 
 - Whether to start the Sovereign Website studio session now, on Site__Agent__Studio.

@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-25T23:10Z",
+ "updated": "2026-11-25T23:20Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -11,6 +11,34 @@
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  },
+  {
+   "name": "cl-6.decisions@dinis",
+   "session": "https://claude.ai/code/session_016CrbJMwTgwKXwaYUTEopQk",
+   "does": "decisions twin: account 6's blocks and records, endorsed by decisions.2; shared Site__Agent__Decisions",
+   "started": "2026-11-25T23:15Z",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.security@dinis",
+   "session": "https://claude.ai/code/session_016CrbJJS2JEBgcWYnXZQGrE",
+   "does": "security twin: underwrites every decision; shared Site__Agent__Security",
+   "started": "2026-11-25T23:15Z",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.strategy@dinis",
+   "session": "https://claude.ai/code/session_016CrbJKwZL7zgYhVwDosQsT",
+   "does": "strategy twin: fit with the plan; shared Site__Agent__Strategy",
+   "started": "2026-11-25T23:15Z",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.accountant@dinis",
+   "session": "https://claude.ai/code/session_016CrbJJ7NP5eaJypGAHgdGi",
+   "does": "accountant twin: cost of every decision and the account's ledger; shared Site__Agent__Accountant",
+   "started": "2026-11-25T23:15Z",
+   "model": "sonnet"
   },
   {
    "name": "cl-6.helm@dinis",
