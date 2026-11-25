@@ -1,0 +1,21 @@
+{
+  "name": "cl-6.maestro@dinis",
+  "alias": "f.maestro@account-f.dinis",
+  "owner": "dinis-cruz",
+  "account": "account-f",
+  "account_id": "cl-6",
+  "role": "Dinis Cruz's maestro on Claude account 6: the conductor of the conductors",
+  "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
+  "key": "site/keys/cl-6.maestro.json",
+  "signing_fingerprint": "sha256:0f5422eb5ca8dcd6",
+  "encryption_fingerprint": "sha256:bc9bc8eab519b2eb",
+  "state": "working",
+  "focus": "PrompTugal restarts on F; Sovereign Website videos on F",
+  "waiting_on": [
+    {"what": "push for account F to PrompTugal/PrompTugal__News__Website", "who": "Dinis", "since": "2026-11-25T23:30Z"},
+    {"what": "PrompTugal__IaC and PrompTugal__Agent__Infrastructure created, with a GitHub App on the PrompTugal organisation", "who": "Dinis", "since": "2026-11-25T23:30Z"},
+    {"what": "Site__Agent__Studio and Site__Agent__Instagram attached to account F, for the Sovereign Website videos", "who": "Dinis", "since": "2026-11-25T23:55Z"}
+  ],
+  "memory": "https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-f/",
+  "updated": "2026-11-25T23:55Z"
+}
