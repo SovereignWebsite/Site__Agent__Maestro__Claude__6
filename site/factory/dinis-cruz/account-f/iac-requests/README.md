@@ -18,4 +18,4 @@ Then cl-6.infra@SovereignWebsite.dinis starts on Site__Agent__Infrastructure__Cl
 | accountant-claude-6 | Site__Agent__Accountant__Claude__6 | cl-6.accountant@dinis |
 | counsel-claude-6 | Site__Agent__Counsel__Claude__6 | cl-6.counsel@dinis |
 | studio-claude-6 | Site__Agent__Studio__Claude__6 | cl-6.studio@SovereignWebsite.dinis |
-| architect-claude-6 | Site__Agent__Architect__Claude__6 | cl-6.architect@dinis (name to confirm) |
+| helm-claude-6 | Site__Agent__Helm__Claude__6 | cl-6.helm@dinis |
