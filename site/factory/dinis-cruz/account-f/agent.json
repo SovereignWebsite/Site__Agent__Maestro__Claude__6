@@ -12,10 +12,18 @@
   "state": "working",
   "focus": "PrompTugal restarts on F; Sovereign Website videos on F",
   "waiting_on": [
-    {"what": "push for account F to PrompTugal/PrompTugal__News__Website", "who": "Dinis", "since": "2026-11-25T23:30Z"},
-    {"what": "PrompTugal__IaC and PrompTugal__Agent__Infrastructure created, with a GitHub App on the PrompTugal organisation", "who": "Dinis", "since": "2026-11-25T23:30Z"},
-    {"what": "Site__Agent__Studio and Site__Agent__Instagram attached to account F, for the Sovereign Website videos", "who": "Dinis", "since": "2026-11-25T23:55Z"}
+    {
+      "what": "Site__Agent__Studio and Site__Agent__Instagram attached to account F, for the Sovereign Website videos",
+      "who": "Dinis",
+      "since": "2026-11-25T23:55Z"
+    }
   ],
   "memory": "https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-f/",
-  "updated": "2026-11-25T23:55Z"
+  "updated": "2026-11-25T22:50Z",
+  "timeline": [
+    {
+      "at": "2026-11-25T22:48Z",
+      "event": "started cl-6.infra@PrompTugal.dinis and cl-6.conductor@PrompTugal.dinis, at Dinis's word (each project in its own session)"
+    }
+  ]
 }

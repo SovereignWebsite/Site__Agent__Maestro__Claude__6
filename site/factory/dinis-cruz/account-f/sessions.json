@@ -1,0 +1,23 @@
+{
+ "owner": "dinis-cruz",
+ "account": "account-f",
+ "kept_by": "cl-6.maestro@dinis",
+ "updated": "2026-11-25T22:50Z",
+ "note": "Sessions cl-6.maestro started, newest first.",
+ "sessions": [
+  {
+   "name": "cl-6.infra@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMTBpiuD87CmNWcUd6",
+   "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
+   "started": "2026-11-25T22:48Z",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.conductor@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
+   "does": "conductor of PrompTugal.news, restarted on PrompTugal__News__Website",
+   "started": "2026-11-25T22:48Z",
+   "model": "opus"
+  }
+ ]
+}
