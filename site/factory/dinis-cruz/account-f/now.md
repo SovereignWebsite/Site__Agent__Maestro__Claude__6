@@ -22,6 +22,14 @@ This home is current from now on; the shared site area keeps the history: https:
 - **15:37 UTC wake:** waves unchanged; no new sessions. **Vicky's team is moving again:** journalist-ai drafted S86 at 14:54 UTC and the reviewer reviewed it at 15:06 UTC (Fix first, round 1).
 - **14:37 UTC wake:** waves unchanged (41 of 41 with key and area); no new sessions. Vicky's team: no commit since 10:16 UTC (checker); the gate now names a missing ssh-keygen or shallow clone (v0.1.2316). Tracker: [vicky.md](vicky.md); upgrade plan: [plans/2026-11-26-vickys-team-upgrade.md](plans/2026-11-26-vickys-team-upgrade.md).
 
+## Waits on Dinis (16:52 UTC)
+
+- **cl-6.abp: one line in its session** (session_016CrbJK3xXBhUMA6rucuPPd): his yes and root (anchor sha256:db7f79fdd87e030a, or cl-6.decisions' key sha256:2c3824641f5b8470). Unblocks the hook kit v2.1 (security PASSED, dffb673) and activates draft grants such as cl-6.data.london's. Kit install also needs ABP_PIN_KEY_SHA256 in his environment settings, P8 revision 4, and cl-6.dev's CI check.
+- **Network capture** (design c7123d2): limited environments, P1 yes (cl-6.telemetry audits tool calls only), a non-public home for host rows.
+- api.tfl.gov.uk for cl-6.data.london (card from its session).
+- cl-6.places' wake change (record p11g): in its session.
+- startups.b's CBR editor notice: paste into its session.
+
 ## Waits on Dinis (from the 13:50 handover update)
 
 - Merge PrompTugal__IaC#25 (section key route) and its five GitHub App permissions: seven wakes wait on it.
