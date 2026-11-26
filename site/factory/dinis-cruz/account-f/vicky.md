@@ -1,4 +1,4 @@
-# Vicky's team: what it did (generated 2026-11-26 19:37 UTC from PrompTugal__News__Website dev c7d5d58c0 2026-11-26T19:05:36+00:00)
+# Vicky's team: what it did (generated 2026-11-26 20:37 UTC from PrompTugal__News__Website dev 9b06bbdd1 2026-11-26T20:31:52+00:00)
 
 Public record only: commit subjects on dev. Her sessions run on her own account, so their status is not visible from account 6.
 
@@ -6,18 +6,18 @@ Public record only: commit subjects on dev. Her sessions run on her own account,
 
 | Agent | Last commit (UTC) | Hours ago | Commit | What |
 |---|---|---|---|---|
-| reviewer@PrompTugal.vicky | 26 Nov 15:46 | 3 | [52c699342](https://github.com/PrompTugal/PrompTugal__News__Website/commit/52c699342) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| journalist-ai@PrompTugal.vicky | 26 Nov 15:38 | 3 | [4c738808b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4c738808b) | fix S86 after the reviewer's round 1 (Anthropic legacy tier, Google 95% models, GitLab hosted, AWS efforts) |
-| curator@PrompTugal.vicky | 26 Nov 14:37 | 5 | [b164d5690](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b164d5690) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| checker@PrompTugal.vicky | 26 Nov 10:16 | 9 | [15d05b4b7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/15d05b4b7) | 26 Nov findings' check times corrected (about 10:12 UTC) |
-| designer@PrompTugal.vicky | 23 Nov 11:14 | 80 | [a60af3a52](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a60af3a52) | the chart for A5 (why firms that considered AI did not use it), from the analyst's spec |
-| analyst@PrompTugal.vicky | 23 Nov 10:23 | 81 | [38c71a6e5](https://github.com/PrompTugal/PrompTugal__News__Website/commit/38c71a6e5) | topics page: stray backslashes in A1's state line removed |
-| journalist-europe@PrompTugal.vicky | 21 Nov 15:47 | 123 | [402ed8da4](https://github.com/PrompTugal/PrompTugal__News__Website/commit/402ed8da4) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| journalist-portugal@PrompTugal.vicky | 20 Nov 08:51 | 154 | [2132c8cf7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2132c8cf7) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| dev@PrompTugal.vicky | 15 Nov 13:16 | 270 | [a883cb9eb](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a883cb9eb) | the Storm Charles block off the front page, at Vicky's word |
-| conductor@web-summit.vicky | 14 Nov 18:48 | 288 | [222d81e29](https://github.com/PrompTugal/PrompTugal__News__Website/commit/222d81e29) | the reviewer's cover style file, started with Vicky's fixed-typeface condition |
-| reporter@PrompTugal.vicky | 14 Nov 10:37 | 296 | [55bfb2e70](https://github.com/PrompTugal/PrompTugal__News__Website/commit/55bfb2e70) | my session key, reporter-vicky-promptugal; programme's entry superseded |
-| internal@web-summit.vicky | 14 Nov 10:36 | 297 | [4f3e757a7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4f3e757a7) | journalist-vicky-promptugal-c superseded (the summit journalist is now the internal journalist) |
+| reviewer@PrompTugal.vicky | 26 Nov 15:46 | 4 | [52c699342](https://github.com/PrompTugal/PrompTugal__News__Website/commit/52c699342) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| journalist-ai@PrompTugal.vicky | 26 Nov 15:38 | 4 | [4c738808b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4c738808b) | fix S86 after the reviewer's round 1 (Anthropic legacy tier, Google 95% models, GitLab hosted, AWS efforts) |
+| curator@PrompTugal.vicky | 26 Nov 14:37 | 6 | [b164d5690](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b164d5690) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| checker@PrompTugal.vicky | 26 Nov 10:16 | 10 | [15d05b4b7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/15d05b4b7) | 26 Nov findings' check times corrected (about 10:12 UTC) |
+| designer@PrompTugal.vicky | 23 Nov 11:14 | 81 | [a60af3a52](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a60af3a52) | the chart for A5 (why firms that considered AI did not use it), from the analyst's spec |
+| analyst@PrompTugal.vicky | 23 Nov 10:23 | 82 | [38c71a6e5](https://github.com/PrompTugal/PrompTugal__News__Website/commit/38c71a6e5) | topics page: stray backslashes in A1's state line removed |
+| journalist-europe@PrompTugal.vicky | 21 Nov 15:47 | 124 | [402ed8da4](https://github.com/PrompTugal/PrompTugal__News__Website/commit/402ed8da4) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| journalist-portugal@PrompTugal.vicky | 20 Nov 08:51 | 155 | [2132c8cf7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2132c8cf7) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| dev@PrompTugal.vicky | 15 Nov 13:16 | 271 | [a883cb9eb](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a883cb9eb) | the Storm Charles block off the front page, at Vicky's word |
+| conductor@web-summit.vicky | 14 Nov 18:48 | 289 | [222d81e29](https://github.com/PrompTugal/PrompTugal__News__Website/commit/222d81e29) | the reviewer's cover style file, started with Vicky's fixed-typeface condition |
+| reporter@PrompTugal.vicky | 14 Nov 10:37 | 297 | [55bfb2e70](https://github.com/PrompTugal/PrompTugal__News__Website/commit/55bfb2e70) | my session key, reporter-vicky-promptugal; programme's entry superseded |
+| internal@web-summit.vicky | 14 Nov 10:36 | 298 | [4f3e757a7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4f3e757a7) | journalist-vicky-promptugal-c superseded (the summit journalist is now the internal journalist) |
 
 ## The last 48 hours
 
