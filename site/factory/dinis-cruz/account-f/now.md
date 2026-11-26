@@ -30,7 +30,8 @@ This session is at 55.7% of its window; hand-over written: sessions/2026-11-26-s
 
 - **In cl-6.abp's new session** (session_016CrbJLnbr219cU3eVRGxBW): "P8: yes", "yes to P9", and set ABP_PIN_KEY_SHA256 = d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318 (kit v2.2b b87acff passed by cl-6.security@PrompTugal.dinis; cl-6.security@dinis to pass the same head). Decide a pin-signing key that outlives sessions.
 - Add PrompTugal__News__Website in cl-6.devops (session_016CrbJK7qgEKhvrRXNs9wCo) and cl-6.journalist (session_016CrbJNYGCQ9RLyq8e7aVU7).
-- Four items stuck on router.a (asleep): observability handover, CBR editor notice, signer full-id patch, CMS review: paste each, or wake router.a.
+- Five items for account A or B, stuck on router.a (asleep): observability handover, CBR editor notice, signer full-id patch, CMS review, and the CMS proposal to b.onboarding and b.github-tool (Site__Agent__Onboarding site/factory/dinis-cruz/account-f/proposal-to-b.md, eaa73db): paste each, or wake router.a.
+- cl-6.librarian (session_016CrbJL9iaXQ1KjPkESLpRK): its push to dev was refused by its own permission check; Dinis says yes there.
 - CMS: owners edit through GitHub, or only those who want direct control?
 
 ## Waits on Dinis (16:52 UTC)
