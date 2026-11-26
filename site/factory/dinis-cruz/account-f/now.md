@@ -4,6 +4,8 @@ This home is current from now on; the shared site area keeps the history: https:
 
 ## Working on
 
+- **11:15 UTC:** the usage limit stopped nearly every cl-6 session around 07:20 UTC and the morning wakes after it failed; after the reset, nudged the conductor, infra, places, journalist, correspondent, dev and designer; the others run at their evening wakes. PrompTugal__IaC#25 (section key route) still open.
+
 - **06:10 UTC, after the 5-hour reset:** nudged the nine sessions the limit stopped (conductor, infra, places, designer, civic, checker, curator, translator, sherpa); hourly wake back on. cl-6.decisions is endorsed for account 6 (its commit 9beefd6, expires 30 Nov). Waiting only on Dinis: programme, backup, outreach, the PrompTugal accountant, bulletins, library, travel, data, helm, observability.
 
 - **02:40 UTC check:** 37 of 41 PrompTugal homes have key and area (gaps: journalist and sherpa and outreach areas, the PrompTugal accountant's key); the conductor has set 22 wakes. **Handover due:** this session is at 58% of its window; see sessions/2026-11-26-first/handover.md.
