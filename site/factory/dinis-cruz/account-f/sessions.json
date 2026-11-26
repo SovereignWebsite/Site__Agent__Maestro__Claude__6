@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T02:15Z",
+ "updated": "2026-11-26T02:17Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -156,7 +156,8 @@
    "does": "wave 2: the swarm section; home PrompTugal__Agent__Swarm",
    "started": "2026-11-26T01:41Z",
    "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
-   "model": "sonnet"
+   "model": "sonnet",
+   "state": "archived 2026-11-26T02:16Z after its history moved (Dinis: \"yes, stop swarm after the history too\")"
   },
   {
    "name": "cl-6.abp@PrompTugal.dinis",
