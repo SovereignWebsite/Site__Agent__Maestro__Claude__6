@@ -174,7 +174,7 @@
    "agent": "cl-6.accountant@PrompTugal.dinis",
    "home": "PrompTugal/PrompTugal__Agent__Accountant",
    "home_exists": true,
-   "key": false,
+   "key": true,
    "area": true
   },
   {
@@ -263,7 +263,7 @@
    "home": "PrompTugal/PrompTugal__Agent__Outreach",
    "home_exists": true,
    "key": true,
-   "area": false
+   "area": true
   },
   {
    "wave": 4,
@@ -330,5 +330,5 @@
    "area": true
   }
  ],
- "checked_at": "2026-11-26T02:40Z"
+ "checked_at": "2026-11-26T06:15Z"
 }
