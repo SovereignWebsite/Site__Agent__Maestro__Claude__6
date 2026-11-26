@@ -2,9 +2,18 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T13:55Z",
+ "updated": "2026-11-26T16:34Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.social@dinis",
+   "session": "https://claude.ai/code/session_016CrbJMyN2aLFYQ5HJR3HqP",
+   "does": "social media twin of b.social in Site__Agent__Social; drafts for PrompTugal, sgit, CBR and the Sovereign Website videos; never posts, never holds a token",
+   "started": "2026-11-26T16:33Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (decisions/2026-11-26-create-missing-agents.md)",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
   {
    "name": "cl-6.conductor@sgit.dinis",
    "session": "https://claude.ai/code/session_016CrbJJApzXjpoWrGMpA4u9",
