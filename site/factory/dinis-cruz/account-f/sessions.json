@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T01:40Z",
+ "updated": "2026-11-26T01:45Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -11,6 +11,118 @@
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  },
+  {
+   "name": "cl-6.data@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJJKUtCUXi5dhrb3Ahs",
+   "does": "wave 2: the data section; home PrompTugal__Agent__Data",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.weather@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMaWr7p8W8MaDmhsYG",
+   "does": "wave 2: the weather section; home PrompTugal__Agent__Weather",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.travel@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMxEaAKd9efCfrsom6",
+   "does": "wave 2: the travel section; home PrompTugal__Agent__Travel",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.civic@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMSWe1qtqBQrSeeHQf",
+   "does": "wave 2: the civic section; home PrompTugal__Agent__Civic",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.startups@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJHzEkmE5jEdT2WpVzC",
+   "does": "wave 2: the startups section; home PrompTugal__Agent__Startups",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.library@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJNfPpkijB4Czf4L2DD",
+   "does": "wave 2: the library section; home PrompTugal__Agent__Library",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.signals@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLzfdz51sDBekg8v8X",
+   "does": "wave 2: the signals section; home PrompTugal__Agent__Signals",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.cyber@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLwU9iQ41Xv3q2VZwk",
+   "does": "wave 2: the cyber section; home PrompTugal__Agent__Cyber",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.events@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJNMHQRQmkvWGwFt7BL",
+   "does": "wave 2: the events section; home PrompTugal__Agent__Events",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.live@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMc7qc59eSmeqUAW6q",
+   "does": "wave 2: the live section; home PrompTugal__Agent__Live",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.videos@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMuWrQhMqNFVLoX3dS",
+   "does": "wave 2: the videos section; home PrompTugal__Agent__Videos",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.bulletins@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJN84epGHrjZ5CT51bY",
+   "does": "wave 2: the bulletins section; home PrompTugal__Agent__Bulletins",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.fringe@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKaYmvvH9W9jBkyyHE",
+   "does": "wave 2: the fringe section; home PrompTugal__Agent__Fringe",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.swarm@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJNB2WPgCAvU2KSmRmY",
+   "does": "wave 2: the swarm section; home PrompTugal__Agent__Swarm",
+   "started": "2026-11-26T01:41Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
+   "model": "sonnet"
   },
   {
    "name": "cl-6.abp@PrompTugal.dinis",
