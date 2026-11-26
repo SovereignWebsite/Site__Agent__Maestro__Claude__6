@@ -1,6 +1,25 @@
-# cl-6.maestro, now (25 Nov 2026, 23:55 UTC)
+# cl-6.maestro, now (26 Nov 2026, 13:45 UTC)
 
 This home is current from now on; the shared site area keeps the history: https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-f/
+
+## Session
+
+- **New session since 13:43 UTC:** https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3, taking over from session_016CrbJJo93LZ9avM8raocz4 under the handover protocol (Dinis, there: "yes, can you reset this session"). Handover: [sessions/2026-11-26-first/handover.md](sessions/2026-11-26-first/handover.md).
+- **Key:** signing sha256:e4d19ee9e1180130, encryption sha256:852a6e309c1c3eeb (site/keys/cl-6.maestro.json, commit 895e017); the old key sha256:0f5422eb5ca8dcd6 is superseded.
+- **Wake:** hourly trig_01EEPbLXGfWfq8cEeStiqSmg (36 past each hour) into this session. The old session was asked at 13:45 UTC to disable trig_012aRpKUEt11SbM3c3brYYK1 and archive itself.
+- **In force:** cl-6.abp's R4 (only the maestro creates sessions and wakes until Dinis says P4); the conductor starts nothing; pending wakes in [pending-wakes.md](pending-wakes.md).
+
+## Waits on Dinis (from the 13:50 handover update)
+
+- Merge PrompTugal__IaC#25 (section key route) and its five GitHub App permissions: seven wakes wait on it.
+- cl-6.dev's deploy-speed workflow edit; cl-6.abp's P1 to P11; cl-6.backup's destination.
+- The account A observability handover (ask on the shared Maestro site; router.a's wake is off).
+- The maestros' channel: attach PrompTugal__News__Website to the maestro for from-f.md, or a sealed maestros-channel key.
+- "Donna session": not found on account 6; which account or role?
+- cl-6.decisions's endorsement by decisions.2 expires 30 Nov: renew before then.
+- cl-6.accountant@dinis was asked (13:45 UTC, by the old session) for an analysis of who spends what; its link goes to Dinis when it lands.
+
+## Earlier (previous session)
 
 ## Working on
 

@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T02:30Z",
+ "updated": "2026-11-26T13:45Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -392,6 +392,27 @@
    "does": "conductor of PrompTugal.news, restarted on PrompTugal__News__Website",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  }
+ ],
+ "maestro_sessions": [
+  {
+   "name": "cl-6.maestro@dinis",
+   "session": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "started": "2026-11-26T13:43Z",
+   "state": "current",
+   "signing_fingerprint": "sha256:e4d19ee9e1180130",
+   "encryption_fingerprint": "sha256:852a6e309c1c3eeb",
+   "wake": "trig_01EEPbLXGfWfq8cEeStiqSmg (36 * * * *)",
+   "note": "took over under the handover protocol at Dinis's word in the old session: \"yes, can you reset this session\""
+  },
+  {
+   "name": "cl-6.maestro@dinis",
+   "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
+   "started": "2026-11-24",
+   "state": "handed over 2026-11-26T13:45Z; asked to disable trig_012aRpKUEt11SbM3c3brYYK1 and archive",
+   "signing_fingerprint": "sha256:0f5422eb5ca8dcd6",
+   "key_status": "superseded",
+   "handover": "sessions/2026-11-26-first/handover.md"
   }
  ]
 }
