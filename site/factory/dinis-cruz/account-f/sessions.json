@@ -2,9 +2,36 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T16:34Z",
+ "updated": "2026-11-26T16:40Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.conductor-sw@SovereignWebsite.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJDDrc1h8iMR8TwXKq",
+   "does": "conductor of the Sovereign Website work on account 6; twin of conductor.b in Site__Agent__Conductor, area account-f/sovereignwebsite/; first task map.md",
+   "started": "2026-11-26T16:39Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (decisions/2026-11-26-create-missing-agents.md)",
+   "model": "opus",
+   "environment": "Default (limited)"
+  },
+  {
+   "name": "cl-6.place.london@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJKifSCoGBhUJDMMjpN",
+   "does": "the London place, the only agent that edits it; PrompTugal__Agent__Place__London only; wake trig_01VWwNuhgsJs23ehwqaaq1HT (25 7,18 Lisbon)",
+   "started": "2026-11-26T16:38Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"yes, start them\", 26 Nov); signed record 2026-11-26__place-london-start",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
+   "name": "cl-6.conductor@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt",
+   "does": "conductor of PrompTugal.news, new session with PrompTugal__Agent__Conductor only; replaces session_016CrbJKttr9TiHHDsuGnmF1 (archived once it confirms)",
+   "started": "2026-11-26T16:38Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"yes, start them\", 26 Nov); signed record 2026-11-26__conductor-reset rev 2",
+   "model": "opus",
+   "environment": "Default (limited)"
+  },
   {
    "name": "cl-6.social@dinis",
    "session": "https://claude.ai/code/session_016CrbJMyN2aLFYQ5HJR3HqP",
