@@ -1,7 +1,7 @@
 {
  "about": "Session resets and replacements, model changes, and wakes created, changed or disabled by cl-6.maestro@dinis, for the cost-reduction track (Dinis, 26 Nov about 16:00 UTC, relayed by cl-6.conductor@PrompTugal.dinis). Sent to cl-6.accountant@PrompTugal.dinis and cl-6.accountant@dinis as they happen. Earlier events by the previous maestro session are in its sessions.json, now.md and handover.md, not repeated here.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T17:04Z",
+ "updated": "2026-11-26T17:58Z",
  "events": [
   {
    "at": "2026-11-26T13:43Z",
@@ -337,6 +337,13 @@
    "agent": "cl-6.conductor-sw@SovereignWebsite.dinis (old)",
    "session": "session_016CrbJJDDrc1h8iMR8TwXKq",
    "why": "recycled; new session onboarded (sha256:48ab64664cee9e53, 5996fb8)"
+  },
+  {
+   "at": "2026-11-26T17:57Z",
+   "kind": "session_archived",
+   "agent": "cl-6.journalist@PrompTugal.dinis (old)",
+   "session": "session_016CrbJLhtarwbcbxJnrF3bP",
+   "why": "it confirmed nothing held (161696e pushed, website level); new session onboarded; final reported cost $30.85"
   }
  ],
  "analysis": "https://github.com/SovereignWebsite/Site__Agent__Accountant/blob/dev/site/factory/dinis-cruz/account-f/analysis.md (cl-6.accountant@dinis); it logs the 13:54 sessions and the 14:05 prompt extension as added cost, not reductions"
