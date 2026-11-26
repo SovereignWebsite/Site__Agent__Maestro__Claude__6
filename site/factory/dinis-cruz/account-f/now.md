@@ -22,6 +22,10 @@ This home is current from now on; the shared site area keeps the history: https:
 - **15:37 UTC wake:** waves unchanged; no new sessions. **Vicky's team is moving again:** journalist-ai drafted S86 at 14:54 UTC and the reviewer reviewed it at 15:06 UTC (Fix first, round 1).
 - **14:37 UTC wake:** waves unchanged (41 of 41 with key and area); no new sessions. Vicky's team: no commit since 10:16 UTC (checker); the gate now names a missing ssh-keygen or shallow clone (v0.1.2316). Tracker: [vicky.md](vicky.md); upgrade plan: [plans/2026-11-26-vickys-team-upgrade.md](plans/2026-11-26-vickys-team-upgrade.md).
 
+## Handover due (17:40 UTC)
+
+This session is at 55.7% of its window; hand-over written: sessions/2026-11-26-second/handover.md. Waiting on Dinis's yes to reset.
+
 ## Waits on Dinis (17:05 UTC)
 
 - **In cl-6.abp's new session** (session_016CrbJLnbr219cU3eVRGxBW): "P8: yes", "yes to P9", and set ABP_PIN_KEY_SHA256 = d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318 (kit v2.2b b87acff passed by cl-6.security@PrompTugal.dinis; cl-6.security@dinis to pass the same head). Decide a pin-signing key that outlives sessions.
