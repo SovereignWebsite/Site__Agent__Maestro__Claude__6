@@ -2,9 +2,18 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T16:50Z",
+ "updated": "2026-11-26T16:56Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.onboarding@SovereignWebsite.dinis",
+   "session": "https://claude.ai/code/session_016CrbJL9nXnBiLGoiXLGM2N",
+   "does": "the web CMS for owners (prototype with a fictional demo owner, proposals for b.onboarding and b.security); Site__Agent__Onboarding",
+   "started": "2026-11-26T16:53Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"yes, start the CMS agent\")",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
   {
    "name": "cl-6.design@dinis",
    "session": "https://claude.ai/code/session_016CrbJN8TyFQTFEyKbVKSXf",

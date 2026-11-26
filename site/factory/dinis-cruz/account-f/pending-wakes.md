@@ -32,4 +32,12 @@ cl-6.abp's R4: only cl-6.maestro starts sessions and wakes, until Dinis says P4 
 
 - **cl-6.places, trig_0132oarAUsN5cwmgTAbj3GGk**: signed record 2026-11-26__abp-p11g (Site__Agent__Decisions 5b4b226) says run the places one after another, no sub-agents. 16:38 UTC: update_trigger refused by the platform (a wake's prompt can be changed only from the session it posts into); asking cl-6.places to apply it itself was refused by this session's permission check. Waits on Dinis: he changes it in cl-6.places' session (session_016CrbJJcoCJnQM6GGY1xC5K), or says how.
 
-- **cl-6.onboarding@SovereignWebsite.dinis** (the web CMS for owners; Dinis asked about 16:50 UTC in cl-6.conductor-sw's session which agent does it; none does): create_session refused at 16:52 UTC by this session's permission check (the ask came through the conductor). Waits on Dinis's yes here. Sonnet, limited "Default", Site__Agent__Onboarding only, fictional demo owner, never a vault key.
+- **cl-6.onboarding@SovereignWebsite.dinis** (the web CMS for owners; Dinis asked about 16:50 UTC in cl-6.conductor-sw's session which agent does it; none does): Started 16:53 UTC at Dinis's yes here (session_016CrbJL9nXnBiLGoiXLGM2N). Sonnet, limited "Default", Site__Agent__Onboarding only, fictional demo owner, never a vault key.
+
+## Resets in progress (Dinis: "reset them", 16:53 UTC)
+
+Handover asked 16:55 UTC; then new session (same repository and model, limited environment), wake moved, old retitled "[ARCHIVED, replaced ...]" at once, archived after the new one confirms.
+- cl-6.abp (session_016CrbJK3xXBhUMA6rucuPPd, 72.5%; wake trig_01UBF8M2222JWokDoFs2skhV)
+- cl-6.journalist (session_016CrbJLhtarwbcbxJnrF3bP, 61.7%; wake trig_01HHZRxLqWpzNpKi7oURHNfF)
+- cl-6.devops (session_016CrbJLNFt4cFTXMVgkqcCY, 54.0%; wake trig_01ABYHjvXT9THELBSgM2PaSg)
+- cl-6.accountant@dinis (session_016CrbJJ7NP5eaJypGAHgdGi, 53.1%)
