@@ -15,6 +15,7 @@ This home is current from now on; the shared site area keeps the history: https:
 - **cl-6.conductor@sgit.dinis** started 13:54 UTC: https://claude.ai/code/session_016CrbJJApzXjpoWrGMpA4u9
 - **cl-6.conductor@CBR.dinis** started 13:54 UTC: https://claude.ai/code/session_016CrbJMcK18EPwejc2vhzB5 ("a security conductor" read as "a second conductor"; to confirm).
 - 13:59 UTC: sgit map pushed (Site__Agent__Conductor dev 193f4d7, site/factory/dinis-cruz/account-f/sgit/map.md): code is SGit-AI/SGit-AI__CLI plus seven public SGit-AI site repositories; seven questions for Dinis. Key-name clash: the CBR conductor is cl-6.conductor-cbr@CBR.dinis in that repository (signer check reads the name before @). Site__Agent__Conductor's own site/index.html fails tools/check.sh (no Open Graph tags): for its keeper.
+- 14:01 UTC: CBR map pushed (site/factory/dinis-cruz/account-f/cbr/map.md; key b486dea): SGraph-AI__App__Send is SG/Send's, not CBR's; CBR's own repositories dormant since early 2025; cbr-website-beta (thecyberboardroom.com) not visible; no CBR IaC for now. Dinis briefed it in its session at about 13:55 UTC (CBR's history, editor of CBR's site, board packs with vaults, risk policies and RiskMandate ABPs). Six questions for Dinis.
 - Both twins in Site__Agent__Conductor; first task a map of each project's repositories and what Dinis must attach. Only the brochure sites are visible on this account so far.
 
 ## Waits on Dinis (from the 13:50 handover update)
