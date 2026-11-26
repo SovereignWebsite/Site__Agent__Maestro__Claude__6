@@ -6,6 +6,24 @@
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
+   "name": "cl-6.observability@dinis",
+   "session": "https://claude.ai/code/session_016CrbJMgtqM8V2iwvg4M8BZ",
+   "does": "top-level observability of account 6's agents (status, grants, context, cost, wakes); shared Site__Agent__Observability, area account-f/",
+   "started": "2026-11-26T16:47Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (decisions/2026-11-26-create-missing-agents.md)",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
+   "name": "cl-6.observability-sw@SovereignWebsite.dinis",
+   "session": "https://claude.ai/code/session_016CrbJLxxCM4FYbD8NdRvQV",
+   "does": "Sovereign Website traffic observability, twin of observability.b; area account-f/sovereignwebsite/; first task plan.md",
+   "started": "2026-11-26T16:47Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (decisions/2026-11-26-create-missing-agents.md)",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
    "name": "cl-6.data.london@PrompTugal.dinis",
    "session": "https://claude.ai/code/session_016CrbJMrN6VztFm2YVXmp3b",
    "does": "London's data agent: the only agent making London's network requests (six official hosts), logs each one; PrompTugal__Agent__Data area london/; cl-6.place.london reads its data",
