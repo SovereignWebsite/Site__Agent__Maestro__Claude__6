@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T01:45Z",
+ "updated": "2026-11-26T01:48Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -11,6 +11,38 @@
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  },
+  {
+   "name": "cl-6.journalist@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLhtarwbcbxJnrF3bP",
+   "does": "wave 1: journalist; home PrompTugal__Agent__Journalist",
+   "started": "2026-11-26T01:43Z",
+   "started_by": "cl-6.conductor@PrompTugal.dinis, at Dinis's word",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.dev@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKEPqF3pNfbncgHqvy",
+   "does": "wave 1: dev; home PrompTugal__Agent__Dev",
+   "started": "2026-11-26T01:43Z",
+   "started_by": "cl-6.conductor@PrompTugal.dinis, at Dinis's word",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.security@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKgXxEmneR8fKwoPhS",
+   "does": "wave 1: security; home PrompTugal__Agent__Security",
+   "started": "2026-11-26T01:43Z",
+   "started_by": "cl-6.conductor@PrompTugal.dinis, at Dinis's word",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.correspondent@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKBK3KAiWXzESjt3zH",
+   "does": "wave 1: correspondent; home PrompTugal__Agent__Correspondent",
+   "started": "2026-11-26T01:43Z",
+   "started_by": "cl-6.conductor@PrompTugal.dinis, at Dinis's word",
+   "model": "sonnet"
   },
   {
    "name": "cl-6.data@PrompTugal.dinis",
