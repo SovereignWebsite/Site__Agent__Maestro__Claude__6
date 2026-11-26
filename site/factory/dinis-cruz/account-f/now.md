@@ -18,7 +18,11 @@ This home is current from now on; the shared site area keeps the history: https:
 
 - **The decision panel started 23:15 UTC** (Dinis: "yes, start the decision panel"): cl-6.decisions, cl-6.security, cl-6.strategy, cl-6.accountant, each its own session in its role's shared repository, with cl-6.maestro the fifth voice; cl-6.counsel when a decision needs it. See sessions.json.
 
+- **Fringe archived** at 02:12 UTC after moving its history (334 files) into PrompTugal__Agent__Fringe; lisbontechfringe.com stays live. Swarm: same treatment proposed, waits on Dinis. Storm-Charles: no agent; frozen since 18 Nov.
+
 ## Waits on Dinis
+
+- fringe.promptugal.news still points at GitHub Pages with no CNAME in its repository (cl-6.security, S2: a subdomain takeover risk): verify the domain, then cl-6.infra restores or removes the record.
 
 - Push for account 6's twins to their shared repositories (Site__Agent__Decisions, Security, Strategy, Accountant, Counsel); his word to b.decisions to endorse it.
 

@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T01:48Z",
+ "updated": "2026-11-26T02:15Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -146,7 +146,9 @@
    "does": "wave 2: the fringe section; home PrompTugal__Agent__Fringe",
    "started": "2026-11-26T01:41Z",
    "started_by": "cl-6.maestro@dinis, at Dinis's word, for the conductor",
-   "model": "sonnet"
+   "model": "sonnet",
+   "state": "archived 2026-11-26T02:12Z after its history moved (Dinis: \"yes, stop it after the history\")",
+   "cost_usd": 3.07
   },
   {
    "name": "cl-6.swarm@PrompTugal.dinis",
