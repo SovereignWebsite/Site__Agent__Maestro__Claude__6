@@ -16,7 +16,7 @@ cl-6.abp's R4: only cl-6.maestro starts sessions and wakes, until Dinis says P4 
 | outreach | session_016CrbJKSAFT2v7Mkhpc4uJd | 57 9,20 | the website is attached | |
 | accountant (PrompTugal) | session_016CrbJLU6NN6yvcGyy3HEg3 | 17 10,21 | the website is attached | |
 | observability | session_016CrbJK6qQvXVy64vKPgEe1 | 27 10,21 | Dinis's two answers (account A handover) | |
-| abp | session_016CrbJK3xXBhUMA6rucuPPd | 37 10,21 | it says it can work (asked 16:00 UTC 26 Nov); its prompt starts with cl-6.abp's line below | |
+| abp | session_016CrbJK3xXBhUMA6rucuPPd | 37 10,21 | it said it can work (15:56 UTC 26 Nov); prompt starts with its line below | trig_01UBF8M2222JWokDoFs2skhV |
 
 ## Lines to put at the start of wake prompts
 
