@@ -4,6 +4,8 @@ This home is current from now on; the shared site area keeps the history: https:
 
 ## Working on
 
+- **The PrompTugal refactor** (Dinis, 26 Nov: every agent its own repository and its own session): the conductor's list of 41 sessions in five waves, wave 0 the ABP agent (PrompTugal__Agent__Conductor board/proposals/2026-11-26-sessions.json). The conductor starts them at Dinis's go; cl-6.maestro tracks each agent's move: repository, key, area, old folder frozen with a pointer, wake. At 01:35 UTC 30 agent homes exist; ABP (wave 0), DevOps, Rights, Translator, Telemetry, Historian, Customers, Reviewer, Analyst and the Place homes do not yet.
+
 - **First: PrompTugal fully up to date** (Dinis, 25 Nov ~23:25: [decisions/2026-11-26-promptugal-up-to-date.md](decisions/2026-11-26-promptugal-up-to-date.md)). Wakes and regular updates, the journalists, Vicky's journalist team replicated here, and a brief for the iOS app, which has been approved. The old account-6 sessions are left for later.
 
 - **PrompTugal on F: started 22:48 UTC.** cl-6.infra@PrompTugal.dinis (PrompTugal__Agent__Infrastructure, then PrompTugal__IaC) and cl-6.conductor@PrompTugal.dinis (PrompTugal__News__Website); see sessions.json. Plan https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-f/notes/2026-11-25-promptugal-plan.md. Next from Dinis: the GitHub App on the PrompTugal organisation, which cl-6.infra will ask for.
