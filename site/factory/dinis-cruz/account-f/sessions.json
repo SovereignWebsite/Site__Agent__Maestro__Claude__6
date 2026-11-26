@@ -2,9 +2,36 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T16:56Z",
+ "updated": "2026-11-26T16:58Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.accountant@dinis",
+   "session": "https://claude.ai/code/session_016CrbJKYfRDvxNCKWagJ9Sc",
+   "does": "new session replacing session_016CrbJJ7NP5eaJypGAHgdGi; wake none",
+   "started": "2026-11-26T16:56Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"reset them\")",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
+   "name": "cl-6.devops@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJK7qgEKhvrRXNs9wCo",
+   "does": "new session replacing session_016CrbJLNFt4cFTXMVgkqcCY; wake trig_01JkWz1fjbLfzWDfNwoh3CxH (old trig_01ABYHjvXT9THELBSgM2PaSg disabled)",
+   "started": "2026-11-26T16:56Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"reset them\")",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
+   "name": "cl-6.journalist@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJNYGCQ9RLyq8e7aVU7",
+   "does": "new session replacing session_016CrbJLhtarwbcbxJnrF3bP; wake trig_01ViGgyUxAJcR6QuyyjVreh4 (old trig_01HHZRxLqWpzNpKi7oURHNfF disabled)",
+   "started": "2026-11-26T16:56Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"reset them\")",
+   "model": "sonnet",
+   "environment": "Default (Full Network access): it sources from the web; to move with the network design"
+  },
   {
    "name": "cl-6.abp@PrompTugal.dinis",
    "session": "https://claude.ai/code/session_016CrbJLnbr219cU3eVRGxBW",
