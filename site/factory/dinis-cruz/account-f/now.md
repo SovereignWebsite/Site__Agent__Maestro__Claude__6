@@ -9,13 +9,19 @@ This home is current from now on; the shared site area keeps the history: https:
 - **Wake:** hourly trig_01EEPbLXGfWfq8cEeStiqSmg (36 past each hour) into this session. The old session disabled trig_012aRpKUEt11SbM3c3brYYK1 at 13:45 UTC (checked with get_trigger) and is archiving itself.
 - **In force:** cl-6.abp's R4 (only the maestro creates sessions and wakes until Dinis says P4); the conductor starts nothing; pending wakes in [pending-wakes.md](pending-wakes.md).
 
+## Projects on account 6 (Dinis, 13:50 UTC: [decisions/2026-11-26-conductors-sgit-and-cbr.md](decisions/2026-11-26-conductors-sgit-and-cbr.md))
+
+- PrompTugal, plus older projects Dinis names, retrofitted to how we work now; not every one gets an IaC repository.
+- **cl-6.conductor@sgit.dinis** started 13:54 UTC: https://claude.ai/code/session_016CrbJJApzXjpoWrGMpA4u9
+- **cl-6.conductor@CBR.dinis** started 13:54 UTC: https://claude.ai/code/session_016CrbJMcK18EPwejc2vhzB5 ("a security conductor" read as "a second conductor"; to confirm).
+- Both twins in Site__Agent__Conductor; first task a map of each project's repositories and what Dinis must attach. Only the brochure sites are visible on this account so far.
+
 ## Waits on Dinis (from the 13:50 handover update)
 
 - Merge PrompTugal__IaC#25 (section key route) and its five GitHub App permissions: seven wakes wait on it.
 - cl-6.dev's deploy-speed workflow edit; cl-6.abp's P1 to P11; cl-6.backup's destination.
 - The account A observability handover (ask on the shared Maestro site; router.a's wake is off).
 - The maestros' channel: attach PrompTugal__News__Website to the maestro for from-f.md, or a sealed maestros-channel key.
-- "Donna session": not found on account 6; which account or role?
 - cl-6.decisions's endorsement by decisions.2 expires 30 Nov: renew before then.
 - cl-6.accountant@dinis was asked (13:45 UTC, by the old session) for an analysis of who spends what; its link goes to Dinis when it lands.
 

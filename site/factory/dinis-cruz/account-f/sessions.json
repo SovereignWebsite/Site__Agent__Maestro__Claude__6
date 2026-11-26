@@ -2,9 +2,25 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T13:45Z",
+ "updated": "2026-11-26T13:55Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.conductor@sgit.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJApzXjpoWrGMpA4u9",
+   "does": "conductor of sgit (retrofit); twin in Site__Agent__Conductor, area site/factory/dinis-cruz/account-f/sgit/; first task a map of its repositories",
+   "started": "2026-11-26T13:54Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"can you create a conductor for that\"; decisions/2026-11-26-conductors-sgit-and-cbr.md)",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.conductor@CBR.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMcK18EPwejc2vhzB5",
+   "does": "conductor of The Cyber Boardroom (retrofit); twin in Site__Agent__Conductor, area site/factory/dinis-cruz/account-f/cbr/; first task a map of its repositories",
+   "started": "2026-11-26T13:54Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"can you create a conductor for that\"; decisions/2026-11-26-conductors-sgit-and-cbr.md)",
+   "model": "opus"
+  },
   {
    "name": "cl-6.infra@PrompTugal.dinis",
    "session": "https://claude.ai/code/session_016CrbJMTBpiuD87CmNWcUd6",
