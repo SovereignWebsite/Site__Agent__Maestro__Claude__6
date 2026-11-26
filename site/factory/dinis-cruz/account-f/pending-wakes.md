@@ -24,4 +24,5 @@ cl-6.abp's R4: only cl-6.maestro starts sessions and wakes, until Dinis says P4 
 
 ## Sessions to start
 
-- **cl-6.place.london@PrompTugal.dinis** (Sonnet; PrompTugal__Agent__Place__London and PrompTugal__News__Website; wake 25 7,18 Lisbon; grant abp/cl-6.place.london.md): when the repository exists and Dinis says yes in cl-6.maestro's session (asked 16:00 UTC 26 Nov).
+- **cl-6.place.london@PrompTugal.dinis**: signed record 2026-11-26__place-london-start (Site__Agent__Decisions 8ecec85; signature checked 16:31 UTC; endorsement widened, 991125a, to 30 Nov): Sonnet, limited "Default" environment, PrompTugal__Agent__Place__London only, no extra tools; first prompt states no add_repo, no create_session, no scheduled task, publishes its key first, does not write the website's place data; wakes 25 7,18 Lisbon set by cl-6.maestro. Blocked only by this session's permission check on create_session and create_trigger (Dinis's to answer).
+- 2026-11-26__strikes-site: no action until a later record names strike-day wakes.
