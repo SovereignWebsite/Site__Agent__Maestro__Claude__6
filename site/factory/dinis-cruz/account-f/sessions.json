@@ -6,6 +6,15 @@
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
+   "name": "cl-6.abp@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJLnbr219cU3eVRGxBW",
+   "does": "ABP keeper, new session replacing session_016CrbJK3xXBhUMA6rucuPPd; PrompTugal__Agent__ABP only; wake trig_01MzAd3PsDG8FtCVSxpCyCHT",
+   "started": "2026-11-26T16:54Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"reset them\")",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
    "name": "cl-6.onboarding@SovereignWebsite.dinis",
    "session": "https://claude.ai/code/session_016CrbJL9nXnBiLGoiXLGM2N",
    "does": "the web CMS for owners (prototype with a fictional demo owner, proposals for b.onboarding and b.security); Site__Agent__Onboarding",

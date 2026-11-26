@@ -222,6 +222,29 @@
    "session": "session_016CrbJL9nXnBiLGoiXLGM2N",
    "model": "sonnet",
    "why": "Dinis: start the CMS agent"
+  },
+  {
+   "at": "2026-11-26T16:54Z",
+   "kind": "session_reset",
+   "agent": "cl-6.abp@PrompTugal.dinis",
+   "old": "session_016CrbJK3xXBhUMA6rucuPPd",
+   "new": "session_016CrbJLnbr219cU3eVRGxBW",
+   "model": "sonnet, unchanged; environment moved to limited Default",
+   "why": "72.5% of its window (cl-6.observability, 16:51); handover 4955d03. Note: at reset its context after the last compaction was 128,007 tokens; reported cost $26.45"
+  },
+  {
+   "at": "2026-11-26T16:54Z",
+   "kind": "wake_disabled",
+   "trigger": "trig_01UBF8M2222JWokDoFs2skhV",
+   "why": "moved to the new abp session"
+  },
+  {
+   "at": "2026-11-26T16:54Z",
+   "kind": "wake_created",
+   "trigger": "trig_01MzAd3PsDG8FtCVSxpCyCHT",
+   "cron": "CRON_TZ=Europe/Lisbon 37 10,21 * * *",
+   "into": "session_016CrbJLnbr219cU3eVRGxBW",
+   "why": "the abp wake, moved"
   }
  ],
  "analysis": "https://github.com/SovereignWebsite/Site__Agent__Accountant/blob/dev/site/factory/dinis-cruz/account-f/analysis.md (cl-6.accountant@dinis); it logs the 13:54 sessions and the 14:05 prompt extension as added cost, not reductions"
