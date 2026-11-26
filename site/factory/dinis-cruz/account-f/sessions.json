@@ -2,9 +2,36 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T16:48Z",
+ "updated": "2026-11-26T16:50Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.design@dinis",
+   "session": "https://claude.ai/code/session_016CrbJN8TyFQTFEyKbVKSXf",
+   "does": "design rounds on the selling sites as proposals; Site__Agent__Design",
+   "started": "2026-11-26T16:49Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word in cl-6.conductor-sw's session (16:48:03 UTC, event 143a0863, read with get_event)",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
+   "name": "cl-6.librarian@dinis",
+   "session": "https://claude.ai/code/session_016CrbJL9iaXQ1KjPkESLpRK",
+   "does": "librarian's first run; Site__Agent__Library",
+   "started": "2026-11-26T16:49Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word in cl-6.conductor-sw's session (16:48:03 UTC, event 143a0863, read with get_event)",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
+  {
+   "name": "cl-6.studio@dinis",
+   "session": "https://claude.ai/code/session_016CrbJJe27HT4pDaUAkSFEi",
+   "does": "Sovereign Website videos; Site__Agent__Studio",
+   "started": "2026-11-26T16:49Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word in cl-6.conductor-sw's session (16:48:03 UTC, event 143a0863, read with get_event)",
+   "model": "sonnet",
+   "environment": "Default (limited)"
+  },
   {
    "name": "cl-6.observability@dinis",
    "session": "https://claude.ai/code/session_016CrbJMgtqM8V2iwvg4M8BZ",
