@@ -6,7 +6,7 @@ This home is current from now on; the shared site area keeps the history: https:
 
 - **New session since 13:43 UTC:** https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3, taking over from session_016CrbJJo93LZ9avM8raocz4 under the handover protocol (Dinis, there: "yes, can you reset this session"). Handover: [sessions/2026-11-26-first/handover.md](sessions/2026-11-26-first/handover.md).
 - **Key:** signing sha256:e4d19ee9e1180130, encryption sha256:852a6e309c1c3eeb (site/keys/cl-6.maestro.json, commit 895e017); the old key sha256:0f5422eb5ca8dcd6 is superseded.
-- **Wake:** hourly trig_01EEPbLXGfWfq8cEeStiqSmg (36 past each hour) into this session. The old session was asked at 13:45 UTC to disable trig_012aRpKUEt11SbM3c3brYYK1 and archive itself.
+- **Wake:** hourly trig_01EEPbLXGfWfq8cEeStiqSmg (36 past each hour) into this session. The old session disabled trig_012aRpKUEt11SbM3c3brYYK1 at 13:45 UTC (checked with get_trigger) and is archiving itself.
 - **In force:** cl-6.abp's R4 (only the maestro creates sessions and wakes until Dinis says P4); the conductor starts nothing; pending wakes in [pending-wakes.md](pending-wakes.md).
 
 ## Waits on Dinis (from the 13:50 handover update)
