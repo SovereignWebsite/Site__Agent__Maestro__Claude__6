@@ -18,6 +18,8 @@ This home is current from now on; the shared site area keeps the history: https:
 
 - **The decision panel started 23:15 UTC** (Dinis: "yes, start the decision panel"): cl-6.decisions, cl-6.security, cl-6.strategy, cl-6.accountant, each its own session in its role's shared repository, with cl-6.maestro the fifth voice; cl-6.counsel when a decision needs it. See sessions.json.
 
+- **Wave 4 started** at 02:23 UTC by cl-6.maestro (Dinis: "start wave 4"): 21 sessions (16 roles and Vicky's five twins), see sessions.json. Dinis's answers: the Algarve regional desks fold into Place__Algarve, place.districts into Place__Portugal; the six places workers go to their roles (data, designer, dev, researcher).
+- **Home page feedback** (Dinis, 02:25 UTC, two screenshots): new lead headline, dates on every article, town grid led by each town's main headline, map highlighting places with news, shorter balanced grid, header overflow. Sent to cl-6.correspondent (owner), cl-6.designer and cl-6.places.
 - **Wave 3 started** at 02:16 UTC by cl-6.maestro (Dinis: "deleted, start wave 3"): cl-6.places, one session over the 36 place homes.
 - **Fringe archived** at 02:12 UTC after moving its history (334 files) into PrompTugal__Agent__Fringe; lisbontechfringe.com stays live. Swarm archived the same way at 02:16 UTC (109 history files); swarm.promptugal.news stays live. Storm-Charles: no agent; frozen since 18 Nov.
 

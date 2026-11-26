@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T02:20Z",
+ "updated": "2026-11-26T02:30Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -11,6 +11,174 @@
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  },
+  {
+   "name": "cl-6.designer@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKnk1brEbFLeWGxmxT",
+   "does": "wave 4: designer",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.accountant@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLU6NN6yvcGyy3HEg3",
+   "does": "wave 4: accountant",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.ontologist@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKcMRN3j2H1qSP6eGy",
+   "does": "wave 4: ontologist",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.observability@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJK6qQvXVy64vKPgEe1",
+   "does": "wave 4: observability",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.devops@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLNFt4cFTXMVgkqcCY",
+   "does": "wave 4: devops",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.sherpa@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMWWVdEEuaqxoSn7QC",
+   "does": "wave 4: sherpa",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.synthetic@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMS4781bAVGCP7qfap",
+   "does": "wave 4: synthetic",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.rights@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJJ4rKxNqiEKKhAaWAT",
+   "does": "wave 4: rights",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.translator@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJHy25niw9qrWwrVc9S",
+   "does": "wave 4: translator",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.telemetry@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKQ8xgNBKsWaaetm7x",
+   "does": "wave 4: telemetry",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.historian@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLLxVYAM8QwqHBV7aM",
+   "does": "wave 4: historian",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.researcher@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMo1RxSSek8dG1KAgr",
+   "does": "wave 4: researcher",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.outreach@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKSAFT2v7Mkhpc4uJd",
+   "does": "wave 4: outreach",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.backup@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLUcdAqJPbap3cW4nW",
+   "does": "wave 4: backup",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.investors@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJJDSkkAQSxQ7VDxwzv",
+   "does": "wave 4: investors",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.customers@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKeq1CbrSckUAYEf2f",
+   "does": "wave 4: customers",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.reviewer@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJMGozMvJhLHPUTvy9j",
+   "does": "wave 4: reviewer (twin of Vicky's)",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.curator@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLsMrLvFQSaXufU7Xs",
+   "does": "wave 4: curator (twin of Vicky's)",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.checker@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKoRCCouKXS7AP8XFe",
+   "does": "wave 4: checker (twin of Vicky's)",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.programme@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJLwnkTq2kxfioHp6py",
+   "does": "wave 4: programme (twin of Vicky's)",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
+  },
+  {
+   "name": "cl-6.analyst@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJKUGGAH6r8MhbuAxyV",
+   "does": "wave 4: analyst (twin of Vicky's)",
+   "started": "2026-11-26T02:23Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 4\")",
+   "model": "sonnet"
   },
   {
    "name": "cl-6.places@PrompTugal.dinis",
