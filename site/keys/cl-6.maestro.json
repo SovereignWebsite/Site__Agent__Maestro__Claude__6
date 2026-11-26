@@ -2,20 +2,27 @@
  "agent": "cl-6.maestro@dinis",
  "name": "cl-6.maestro",
  "role": "Dinis Cruz's maestro on Claude account 6 (account F)",
- "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
- "encryption_fingerprint": "sha256:bc9bc8eab519b2eb",
- "signing_fingerprint": "sha256:0f5422eb5ca8dcd6",
- "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBD4Ne+Gof3dK2vSuZuEoRZfajhwuOixB5B384Nevo+7mHBHxzfuQesY+lbZTtELV5BF3301x6/t8CjrykPX4RM8=",
+ "session": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+ "encryption_fingerprint": "sha256:852a6e309c1c3eeb",
+ "signing_fingerprint": "sha256:e4d19ee9e1180130",
+ "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLLJFp7rDzoJDVFWZB8HrnDYcyt4Rvuj+uIRkiyXjSAKg5qScE91RirGz1H2ePfGFyDugrB5WZodNFwAh8wFmvA=",
  "bundle": {
   "v": 1,
-  "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAz5Y2QskCpVfARyD/TJY9\nWYhtCH7+3FjxN4+8BwF5RN1GbAZPqONyGWO2hWuXeMI7iza1gprlc3jR6M5PErGM\n/TmBowEnZacjzZ2fFAGUYY8CilT7yghENOq1w/QUWMWUMd33uENNc92y5Z4w5CD5\nvgN+tM+o5GVCrsi61Vqs+lLGsK8YYCNYrnuppjJ0z4ntoNJILq+OoYyZhAKCsF/P\npU7GoqbiwCqRtMafkKp2jrMx65tBPAJPypzdcZP1lOK+ec4w/se3xvcVR31kNKh2\nY8EvUckxPA/ORqOKl0JV6Jf3UQGqTLuXpvo5bGJIJe5yvrUlRsb+SGr4gIpTazvd\nQnMze+HmQb15CV2W5VXEtegjB3lFg3IpOfjY7GTq93goGTPUth6TQOU1mo5pXphQ\n8wWLariFaNJAoqxAXB4vARMV8F03E0dNiAaMUWksffKDAVDg3X8KQBydWjUBALHX\nyZl/WCgfGty3BT1TWEuZZCnhUxEE5SpNC4VqC+ACr10pzqkwsHOXbprZHXXi/gSt\ntgfSkBG1s5LGGQrV2mhhA0cqY5G25q5Xe6rf7tSNYALQGJLWWIyU1fNTfRIFDDxo\nV4QbmN28peDZMfGbr7F6fPuhYX+ECvgHFK7mlVrcWRqut3vX83Xauyl1PBp0Ysw3\njWQI5ht8f1tylLOjaxAqTxMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
-  "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPg174ah/d0ra9K5m4ShFl9qOHC46\nLEHkHfzg16+j7uYcEfHN+5B6xj6VtlO0QtXkEXffTXHr+3wKOvKQ9fhEzw==\n-----END PUBLIC KEY-----\n",
+  "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAw1k84IKhL5jBzxlWpBBY\nVHX5MLe72zxJgdFLZRiH9zZCn/Gb+rlBleMTGNvnoyHULPWT/yUu0iBMyqvD+Atr\nWCREjICvbZCjZSpxOqh2Xi5I3aoKxMNHKXtnS1JPx47YHNOy8cHak9OPYaPVVwoH\nEojO8sdd7wgwWDmV+4qIBPwMLCTXv0DTCHHpw8VgrOVfVUaXBa8eV5SBUoF9bgz6\ny3fsgUgHNQaveFryLm/0Q3UUXRnVI8jtOtV0UvpKDAzCePEpn74pUGtJYWrdljYx\njWg+9Hfomw5l7Ti/uWjgCaKmz0E7jls2XPIF9xaFLp2WhCEjM5brzuxCdefk4iP8\n87Pa4bGzJ+cl8+f1s2j+C6g46pNafCqRlzVp2sn0FtGIlRw1ol37SB1oD8Z8k5B6\nHlHuPhyKfPnJzodSJnSo+mj9bs9gfhsTYruH8RUeDuz5Toyf/bcvCAEwHrMdiSb0\nJn+SzPxg4DW/ztk6IDfP7nKMArX4GqJohCHj4CQrprg/fKkEycbKY8ebIZnuPamC\n+oIXFHR7+13IKfVCxLaQifrrqg6I2bjpn8LbMz/E6vz7mLVm1zhfNmUwdijs2j7h\nttcKOmi3vHL4lQJ02bB0nF8P9bWv1SAixJNnZWmsE1FZ9oEU0tpFyLJIDe8c1Ras\nBKzPjX3IAgsUjSLQsywMBWcCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+  "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsskWnusPOgkNUVZkHweucNhzK3hG\n+6P64hGSLJeNIAqDmpJwT3VGKsbPUfZ498YXIO6CsHlZmh00XACHzAWa8A==\n-----END PUBLIC KEY-----\n",
   "label": "cl-6.maestro",
-  "fingerprint": "sha256:bc9bc8eab519b2eb",
-  "signing_fingerprint": "sha256:0f5422eb5ca8dcd6"
+  "fingerprint": "sha256:852a6e309c1c3eeb",
+  "signing_fingerprint": "sha256:e4d19ee9e1180130"
  },
- "first_published": "this repository, site/keys/cl-6.maestro.json (2026-11-25)",
+ "first_published": "this repository, site/keys/cl-6.maestro.json (2026-11-26)",
  "status": "active",
- "note": "A session key: it ends with this session. The private half never leaves the session. Made with openssl (P-256 signing, RSA-4096 encryption); sgit is not installed here.",
- "alias": "f.maestro@account-f.dinis (the same key, published in Site__Agent__Maestro site/keys/f.maestro.json)"
+ "supersedes": {
+  "signing_fingerprint": "sha256:0f5422eb5ca8dcd6",
+  "encryption_fingerprint": "sha256:bc9bc8eab519b2eb",
+  "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
+  "status": "superseded",
+  "since": "2026-11-26",
+  "note": "The previous session's key; its full entry is in this file's git history."
+ },
+ "note": "A session key: it ends with this session. The private half never leaves the session. Made with openssl (P-256 signing, RSA-4096 encryption)."
 }
