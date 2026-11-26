@@ -26,7 +26,8 @@ This home is current from now on; the shared site area keeps the history: https:
 
 - **cl-6.abp: one line in its session** (session_016CrbJK3xXBhUMA6rucuPPd): his yes and root (anchor sha256:db7f79fdd87e030a, or cl-6.decisions' key sha256:2c3824641f5b8470). Unblocks the hook kit v2.1 (security PASSED, dffb673) and activates draft grants such as cl-6.data.london's. Kit install also needs ABP_PIN_KEY_SHA256 in his environment settings, P8 revision 4, and cl-6.dev's CI check.
 - **Network capture** (design c7123d2): limited environments, P1 yes (cl-6.telemetry audits tool calls only), a non-public home for host rows.
-- api.tfl.gov.uk for cl-6.data.london (card from its session).
+- api.tfl.gov.uk for cl-6.data.london: through cl-6.abp and security's review first (the agent does not propose it itself).
+- "PrompTugal data (London)" settings (security): allow_package_managers false, allow_mcp_servers false, in Settings, Environments.
 - cl-6.places' wake change (record p11g): in its session.
 - startups.b's CBR editor notice: paste into its session.
 
