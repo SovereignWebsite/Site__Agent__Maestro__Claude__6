@@ -20,3 +20,7 @@ Dinis, in cl-6.maestro's session, about 16:50 UTC on 26 Nov 2026, word for word,
 Dinis: "that is actually a good one for the places environment right? since only the London , or even better the data.london agent should be the one making those requests". Done: environment "PrompTugal data (London)" (env_014fJkugLPBiSUBfBqSeK1G7), six hosts, no repository named; cl-6.data.london@PrompTugal.dinis started in it (session_016CrbJMrN6VztFm2YVXmp3b), logging every request; cl-6.place.london keeps no network and reads its data. cl-6.abp asked for its grant as the first network ABP.
 
 Dinis, same time: "FYI account B is currently at 73% capacity" (passed to cl-6.conductor-sw).
+
+## The design (16:47 UTC)
+
+Agreed by cl-6.security@dinis (lead), cl-6.accountant@dinis and cl-6.abp: https://github.com/SovereignWebsite/Site__Agent__Security/blob/dev/site/factory/dinis-cruz/account-f/designs/2026-11-26-network-capture.md (signed c7123d2); ledger side: Site__Agent__Accountant proposals/2026-11-26-network-ledger-side.md; policies: PrompTugal__Agent__ABP abp/network/DESIGN.md (v1.7.x). Asks of Dinis: (1) a few limited environments with exact hosts, agents moved off the unrestricted one at their restarts; (2) one yes to P1 (cl-6.telemetry reads tool calls only, daily, as the audit no agent can edit); (3) the non-public home for the per-host rows. cl-6.maestro already starts new sessions on limited environments.
