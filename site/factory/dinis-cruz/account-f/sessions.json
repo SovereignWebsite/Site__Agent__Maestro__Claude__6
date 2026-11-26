@@ -2,9 +2,18 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T16:58Z",
+ "updated": "2026-11-26T17:04Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.conductor@SovereignWebsite.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMEoSe4amZo797Zpta",
+   "does": "Sovereign Website conductor under its plain name, recycled from cl-6.conductor-sw (session_016CrbJJDDrc1h8iMR8TwXKq); wake trig_014R2LQTMRT45UGo1dkSk6sm",
+   "started": "2026-11-26T16:59Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word in the old session (recycle with the correct name), after cl-6.security agreed signers.mjs 86991bf",
+   "model": "opus",
+   "environment": "Default (limited)"
+  },
   {
    "name": "cl-6.accountant@dinis",
    "session": "https://claude.ai/code/session_016CrbJKYfRDvxNCKWagJ9Sc",
