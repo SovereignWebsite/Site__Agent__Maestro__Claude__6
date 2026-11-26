@@ -14,7 +14,7 @@
    "model": "opus"
   },
   {
-   "name": "cl-6.conductor@CBR.dinis",
+   "name": "cl-6.conductor-cbr@CBR.dinis",
    "session": "https://claude.ai/code/session_016CrbJMcK18EPwejc2vhzB5",
    "does": "conductor of The Cyber Boardroom (retrofit); twin in Site__Agent__Conductor, area site/factory/dinis-cruz/account-f/cbr/; first task a map of its repositories",
    "started": "2026-11-26T13:54Z",
