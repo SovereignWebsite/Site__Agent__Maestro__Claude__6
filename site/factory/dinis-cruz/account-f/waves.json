@@ -1,0 +1,334 @@
+{
+ "checked_by": "cl-6.maestro@dinis",
+ "rows": [
+  {
+   "wave": 0,
+   "agent": "cl-6.abp@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__ABP",
+   "home_exists": true,
+   "key": true,
+   "area": true
+  },
+  {
+   "wave": 1,
+   "agent": "cl-6.journalist@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Journalist",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 1,
+   "agent": "cl-6.dev@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Dev",
+   "home_exists": true,
+   "key": false,
+   "area": true
+  },
+  {
+   "wave": 1,
+   "agent": "cl-6.security@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Security",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 1,
+   "agent": "cl-6.correspondent@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Correspondent",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.data@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Data",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.weather@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Weather",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.travel@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Travel",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.civic@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Civic",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.startups@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Startups",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.library@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Library",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.signals@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Signals",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.cyber@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Cyber",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.events@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Events",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.live@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Live",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.videos@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Videos",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.bulletins@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Bulletins",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.fringe@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Fringe",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 2,
+   "agent": "cl-6.swarm@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Swarm",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 3,
+   "agent": "cl-6.places@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Place__Algarve",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.designer@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Designer",
+   "home_exists": true,
+   "key": false,
+   "area": true
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.accountant@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Accountant",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.ontologist@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Ontologist",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.observability@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Observability",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.devops@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__DevOps",
+   "home_exists": true,
+   "key": false,
+   "area": true
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.sherpa@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Sherpa",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.synthetic@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Synthetic",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.rights@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Rights",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.translator@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Translator",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.telemetry@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Telemetry",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.historian@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Historian",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.researcher@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Researcher",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.outreach@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Outreach",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.backup@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Backup",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.investors@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Investors",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.customers@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Customers",
+   "home_exists": true,
+   "key": false,
+   "area": true
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.reviewer@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Reviewer",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.curator@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Curator",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.checker@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Checker",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.programme@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Programme",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  },
+  {
+   "wave": 4,
+   "agent": "cl-6.analyst@PrompTugal.dinis",
+   "home": "PrompTugal/PrompTugal__Agent__Analyst",
+   "home_exists": true,
+   "key": false,
+   "area": false
+  }
+ ],
+ "checked_at": "2026-11-26T01:50Z"
+}
