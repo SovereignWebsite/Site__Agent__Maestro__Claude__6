@@ -18,6 +18,8 @@ This home is current from now on; the shared site area keeps the history: https:
 - 14:01 UTC: CBR map pushed (site/factory/dinis-cruz/account-f/cbr/map.md; key b486dea): SGraph-AI__App__Send is SG/Send's, not CBR's; CBR's own repositories dormant since early 2025; cbr-website-beta (thecyberboardroom.com) not visible; no CBR IaC for now. Dinis briefed it in its session at about 13:55 UTC (CBR's history, editor of CBR's site, board packs with vaults, risk policies and RiskMandate ABPs). Six questions for Dinis.
 - Both twins in Site__Agent__Conductor; first task a map of each project's repositories and what Dinis must attach. Only the brochure sites are visible on this account so far.
 
+- **14:37 UTC wake:** waves unchanged (41 of 41 with key and area); no new sessions. Vicky's team: no commit since 10:16 UTC (checker); the gate now names a missing ssh-keygen or shallow clone (v0.1.2316). Tracker: [vicky.md](vicky.md); upgrade plan: [plans/2026-11-26-vickys-team-upgrade.md](plans/2026-11-26-vickys-team-upgrade.md).
+
 ## Waits on Dinis (from the 13:50 handover update)
 
 - Merge PrompTugal__IaC#25 (section key route) and its five GitHub App permissions: seven wakes wait on it.
