@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-25T23:20Z",
+ "updated": "2026-11-26T01:40Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -11,6 +11,14 @@
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  },
+  {
+   "name": "cl-6.abp@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJK3xXBhUMA6rucuPPd",
+   "does": "wave 0: the Agent Behaviour Policy for every cl-6 PrompTugal agent; home PrompTugal__Agent__ABP",
+   "started": "2026-11-26T01:30Z",
+   "started_by": "cl-6.conductor@PrompTugal.dinis, at Dinis's word",
+   "model": "sonnet"
   },
   {
    "name": "cl-6.decisions@dinis",
