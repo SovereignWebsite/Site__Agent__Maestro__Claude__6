@@ -2,7 +2,7 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T02:17Z",
+ "updated": "2026-11-26T02:20Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
   {
@@ -11,6 +11,14 @@
    "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
    "started": "2026-11-25T22:48Z",
    "model": "opus"
+  },
+  {
+   "name": "cl-6.places@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
+   "does": "wave 3: one session over the 36 place homes, each place a sub-agent; started in Place__Algarve",
+   "started": "2026-11-26T02:16Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (\"start wave 3\")",
+   "model": "sonnet"
   },
   {
    "name": "cl-6.journalist@PrompTugal.dinis",

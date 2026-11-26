@@ -18,11 +18,12 @@ This home is current from now on; the shared site area keeps the history: https:
 
 - **The decision panel started 23:15 UTC** (Dinis: "yes, start the decision panel"): cl-6.decisions, cl-6.security, cl-6.strategy, cl-6.accountant, each its own session in its role's shared repository, with cl-6.maestro the fifth voice; cl-6.counsel when a decision needs it. See sessions.json.
 
+- **Wave 3 started** at 02:16 UTC by cl-6.maestro (Dinis: "deleted, start wave 3"): cl-6.places, one session over the 36 place homes.
 - **Fringe archived** at 02:12 UTC after moving its history (334 files) into PrompTugal__Agent__Fringe; lisbontechfringe.com stays live. Swarm archived the same way at 02:16 UTC (109 history files); swarm.promptugal.news stays live. Storm-Charles: no agent; frozen since 18 Nov.
 
 ## Waits on Dinis
 
-- fringe.promptugal.news (S2, takeover risk): Dinis deleting the record (26 Nov); cl-6.infra asked to check every promptugal.news record, propose verifying the domain on the PrompTugal organisation, and move DNS into PrompTugal__IaC.
+- fringe.promptugal.news (S2, takeover risk): deleted by Dinis (26 Nov); cl-6.infra asked to check every promptugal.news record, propose verifying the domain on the PrompTugal organisation, and move DNS into PrompTugal__IaC.
 
 - Push for account 6's twins to their shared repositories (Site__Agent__Decisions, Security, Strategy, Accountant, Counsel); his word to b.decisions to endorse it.
 
