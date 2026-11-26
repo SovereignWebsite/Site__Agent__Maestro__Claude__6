@@ -2,9 +2,18 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T16:40Z",
+ "updated": "2026-11-26T16:48Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.data.london@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMrN6VztFm2YVXmp3b",
+   "does": "London's data agent: the only agent making London's network requests (six official hosts), logs each one; PrompTugal__Agent__Data area london/; cl-6.place.london reads its data",
+   "started": "2026-11-26T16:46Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (decisions/2026-11-26-network-capture.md)",
+   "model": "sonnet",
+   "environment": "PrompTugal data (London), env_014fJkugLPBiSUBfBqSeK1G7"
+  },
   {
    "name": "cl-6.conductor-sw@SovereignWebsite.dinis",
    "session": "https://claude.ai/code/session_016CrbJJDDrc1h8iMR8TwXKq",
