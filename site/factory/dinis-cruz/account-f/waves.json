@@ -15,7 +15,7 @@
    "home": "PrompTugal/PrompTugal__Agent__Journalist",
    "home_exists": true,
    "key": true,
-   "area": false
+   "area": true
   },
   {
    "wave": 1,
@@ -207,7 +207,7 @@
    "home": "PrompTugal/PrompTugal__Agent__Sherpa",
    "home_exists": true,
    "key": true,
-   "area": false
+   "area": true
   },
   {
    "wave": 4,
@@ -330,5 +330,5 @@
    "area": true
   }
  ],
- "checked_at": "2026-11-26T06:15Z"
+ "checked_at": "2026-11-26T06:40Z"
 }
