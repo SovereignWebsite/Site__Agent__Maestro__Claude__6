@@ -330,6 +330,13 @@
    "kind": "wake_moved",
    "trigger": "trig_01Exkuw8Yfc7D9XMoME9PFo9 -> trig_014R2LQTMRT45UGo1dkSk6sm",
    "why": "recycle"
+  },
+  {
+   "at": "2026-11-26T17:03Z",
+   "kind": "session_archived",
+   "agent": "cl-6.conductor-sw@SovereignWebsite.dinis (old)",
+   "session": "session_016CrbJJDDrc1h8iMR8TwXKq",
+   "why": "recycled; new session onboarded (sha256:48ab64664cee9e53, 5996fb8)"
   }
  ],
  "analysis": "https://github.com/SovereignWebsite/Site__Agent__Accountant/blob/dev/site/factory/dinis-cruz/account-f/analysis.md (cl-6.accountant@dinis); it logs the 13:54 sessions and the 14:05 prompt extension as added cost, not reductions"
