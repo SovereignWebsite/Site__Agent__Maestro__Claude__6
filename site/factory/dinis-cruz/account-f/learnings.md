@@ -9,3 +9,4 @@
 
 - **"Is there an agent X here?" means "create it if not"** (Dinis): account 6 has token head-room, so missing agents are started here. See decisions/2026-11-26-create-missing-agents.md.
 - **Signed decisions do not get past this session's own permission check.** Claude Code's auto mode refused create_session at 16:12 UTC on a verified record; only Dinis can allow it (his yes in the session, or a settings rule).
+- **A wake's prompt can be changed only from the session it posts into** (platform, 16:38 UTC). The maestro can create, pause or delete another agent's wake, not rewrite it; and asking that agent to rewrite its own was refused by this session's permission check. Prompt changes to other agents' wakes go to Dinis.
