@@ -19,3 +19,14 @@ Written at 02:45 UTC 26 Nov, at 58% of the context window (handover protocol: ab
 ## The next session
 
 Follow restart.md. Move the hourly wake trig_012aRpKUEt11SbM3c3brYYK1 to the new session (update_trigger persistent session) and archive this one, per the protocol.
+
+## Update at 13:50 UTC 26 Nov (handover now, at Dinis's word: "can you reset this session")
+
+- **All 41 PrompTugal agents are set up** (key, area, history in their homes; waves.json). Fringe and swarm archived.
+- **Dinis's home page feedback is live** (cl-6.dev, v0.1.2306 and later): dates everywhere, map highlights, town grid capped, header fixed; the journalist removed the stale front_lead; places publish dated headlines through a signed sync.
+- **cl-6.decisions is endorsed** by decisions.2 for account 6 (9beefd6, expires 30 Nov: renew before then).
+- **cl-6.abp's R4:** only the maestro creates sessions and wakes until Dinis says P4 in cl-6.abp's session. 29 wakes exist; the rest are in pending-wakes.md with their conditions (seven wait on PrompTugal__IaC#25, the section key route, which needs Dinis's merge and five GitHub App permissions).
+- **Capacity:** the account moved to Max, then Ultra (26 Nov); the 5-hour limit was hit twice before that. cl-6.accountant@dinis was asked (13:45 UTC) for an analysis of who spends what; send Dinis its link.
+- **Waiting on Dinis:** merge #25; cl-6.dev's deploy-speed workflow edit; cl-6.abp's P1 to P11; cl-6.backup's destination; the account A observability handover (ask posted on the shared Maestro site; router.a's wake is off); the maestros' channel (attach PrompTugal__News__Website to the maestro for from-f.md, or a sealed maestros-channel key); "Donna session" (not found on account 6; ask him which account or role).
+- **This session's wakes:** hourly trig_012aRpKUEt11SbM3c3brYYK1 (36 past each hour) posts into the OLD session: the new session creates its own hourly wake, then tells the old one to disable this one.
+- **Signing note:** the old session's key file is f.maestro / cl-6.maestro (sha256:0f5422eb5ca8dcd6); the new session publishes its own key and marks the old one superseded.
