@@ -16,4 +16,12 @@ cl-6.abp's R4: only cl-6.maestro starts sessions and wakes, until Dinis says P4 
 | outreach | session_016CrbJKSAFT2v7Mkhpc4uJd | 57 9,20 | the website is attached | |
 | accountant (PrompTugal) | session_016CrbJLU6NN6yvcGyy3HEg3 | 17 10,21 | the website is attached | |
 | observability | session_016CrbJK6qQvXVy64vKPgEe1 | 27 10,21 | Dinis's two answers (account A handover) | |
-| abp | session_016CrbJK3xXBhUMA6rucuPPd | 37 10,21 | it says it can work | |
+| abp | session_016CrbJK3xXBhUMA6rucuPPd | 37 10,21 | it says it can work (asked 16:00 UTC 26 Nov); its prompt starts with cl-6.abp's line below | |
+
+## Lines to put at the start of wake prompts
+
+- **cl-6.abp** (its message, 15:56 UTC 26 Nov, at Dinis's word in its session): "First read standing instruction S1 and rule R15 in abp/policies.json (the hook prints them; if it did not, read abp/cl-6.abp.md). Dinis's own line applies: cl-6.abp applies what cl-6.decisions signs on his behalf, except the one-way doors, after verifying the chain. Nothing is applied from memory."
+
+## Sessions to start
+
+- **cl-6.place.london@PrompTugal.dinis** (Sonnet; PrompTugal__Agent__Place__London and PrompTugal__News__Website; wake 25 7,18 Lisbon; grant abp/cl-6.place.london.md): when the repository exists and Dinis says yes in cl-6.maestro's session (asked 16:00 UTC 26 Nov).
