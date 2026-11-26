@@ -493,7 +493,8 @@
    "does": "wave 0: the Agent Behaviour Policy for every cl-6 PrompTugal agent; home PrompTugal__Agent__ABP",
    "started": "2026-11-26T01:30Z",
    "started_by": "cl-6.conductor@PrompTugal.dinis, at Dinis's word",
-   "model": "sonnet"
+   "model": "sonnet",
+   "state": "archived 2026-11-26T16:57Z"
   },
   {
    "name": "cl-6.decisions@dinis",
