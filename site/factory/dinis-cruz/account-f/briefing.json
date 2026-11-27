@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T17:37Z",
+ "updated": "2026-11-27T18:27Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -10,6 +10,13 @@
   "questions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Decisions/dev/site/factory/dinis-cruz/account-f/questions.json"
  },
  "waiting_on_dinis": [
+  {
+   "id": "strikes-session",
+   "urgency": "today",
+   "what": "London strikes site: the page is ready in place.london's home; strikes.london.place.agent.promptugal.news still shows only the README. The publishing session is prepared; it needs your word in the maestro's session.",
+   "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "line": "\"yes, start the strikes session\""
+  },
   {
    "id": "journalist-website",
    "urgency": "high: the 12:00 UTC slot passed; still blocks all publishing",
