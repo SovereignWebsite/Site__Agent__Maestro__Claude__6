@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T15:50Z",
+ "updated": "2026-11-27T16:13Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -145,6 +145,13 @@
    "what": "Signed video with the cast: cl-6.studio's plan needs studio.c (account C); the cross-account route is stalled at router.a",
    "where": "studio.c's session (account C)",
    "line": "\"cl-6.studio (session_016CrbJJe27HT4pDaUAkSFEi) will deliver a clean vertical Signed film (1080x1920, sound) and a timeline with cast slots (opening card, beside 'Who holds the keys? / You do.', closing card, optional small presenter in history and policy scenes, clear of text and the bottom fifth); please composite the cast with your 'Synthetic presenter' labels for instagram.c, and tell cl-6.studio which characters, which file format, and whether the empty lower areas must be a fixed size\""
+  },
+  {
+   "id": "signed-music",
+   "urgency": "next",
+   "what": "Signed music bed (98.0 s instrumental in D, 48 kHz 24-bit stereo WAV): hand cl-6.studio's brief to the agent with ElevenLabs access; return an SG/Send link to the WAV plus tool, model, prompts and licence terms for the credits",
+   "where": "https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/briefs/signed-music/",
+   "line": "paste the brief link into the ElevenLabs agent's session"
   }
  ],
  "to_review": [
