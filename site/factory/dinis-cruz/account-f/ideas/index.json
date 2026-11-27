@@ -4,26 +4,171 @@
  "updated": "2026-11-27T11:45Z",
  "note": "Staging copy until the ideas site has its own repository; then the site is the source of truth.",
  "maturity": [
-  {"level": 0, "name": "captured", "means": "Dinis's words recorded, with date and where said"},
-  {"level": 1, "name": "explored", "means": "research or inventory of what exists, every claim sourced"},
-  {"level": 2, "name": "designed", "means": "architecture with exists versus proposed marked"},
-  {"level": 3, "name": "prototyped", "means": "runs on synthetic data, tests pass"},
-  {"level": 4, "name": "built", "means": "MVP used by Dinis on real data"},
-  {"level": 5, "name": "live", "means": "public, used by others, kept by an agent"},
-  {"level": 6, "name": "product", "means": "listed, sold or in a store, with support"}
+  {
+   "level": 0,
+   "name": "captured",
+   "means": "Dinis's words recorded, with date and where said"
+  },
+  {
+   "level": 1,
+   "name": "explored",
+   "means": "research or inventory of what exists, every claim sourced"
+  },
+  {
+   "level": 2,
+   "name": "designed",
+   "means": "architecture with exists versus proposed marked"
+  },
+  {
+   "level": 3,
+   "name": "prototyped",
+   "means": "runs on synthetic data, tests pass"
+  },
+  {
+   "level": 4,
+   "name": "built",
+   "means": "MVP used by Dinis on real data"
+  },
+  {
+   "level": 5,
+   "name": "live",
+   "means": "public, used by others, kept by an agent"
+  },
+  {
+   "level": 6,
+   "name": "product",
+   "means": "listed, sold or in a store, with support"
+  }
  ],
  "ideas": [
-  {"id": "work-cells", "title": "Work cells: one brief, one diff, applied by the owner", "level": 3, "captured": "2026-11-27", "evidence": ["decisions/2026-11-27-work-cells.md", "cells/board.json", "first cell applied: observability d1bed24, 3ab7729, 1006f34"], "touches": ["agents", "briefing page"]},
-  {"id": "commerce-line", "title": "Commerce on a static site: where to draw the build or buy line", "level": 1, "captured": "2026-11-27", "evidence": ["plans/2026-11-27-commerce/report.md", "https://claude.ai/artifact/KxfPkfzypWRCuLkf4E7xhL"], "touches": ["payments", "static sites", "vaults"]},
-  {"id": "events-mvp", "title": "Events: one place for every event in a person's life", "level": 2, "captured": "2026-11-27", "evidence": ["plans/2026-11-27-events/events-mvp.md", "https://claude.ai/artifact/CeEyXJhbWLJTCr6i6jU2Nx"], "touches": ["CRM", "calendar twin", "mail twin", "Apple", "transcription", "sgit"]},
-  {"id": "calendar-on-sgit", "title": "A calendar under version control on sgit", "level": 2, "captured": "2026-11-27", "evidence": ["plans/2026-11-27-events/calendar-on-sgit.md", "https://claude.ai/artifact/ENeTBQ3W7zwZcwCbbCh1Ws"], "touches": ["sgit", "calendar twin", "CRM"]},
-  {"id": "meetscribe-store", "title": "VoiceDebrief MeetScribe on the Chrome Web Store", "level": 4, "captured": "2026-11-27", "evidence": ["plans/2026-11-27-meetscribe-store.md", "VoiceDebrief__Chrome_Extension__MeetScribe v0.3.5 (b2e4f79)"], "touches": ["transcription", "OpenRouter", "events MVP"]},
-  {"id": "briefing-page", "title": "Dinis's live briefing page fed by JSON in repositories", "level": 4, "captured": "2026-11-27", "evidence": ["briefing.json", "https://observability.agents.sovereignweb.site/factory/dinis-cruz/account-f/briefing/"], "touches": ["observability", "decisions"]}
+  {
+   "id": "work-cells",
+   "title": "Work cells: one brief, one diff, applied by the owner",
+   "level": 3,
+   "captured": "2026-11-27",
+   "evidence": [
+    "decisions/2026-11-27-work-cells.md",
+    "cells/board.json",
+    "first cell applied: observability d1bed24, 3ab7729, 1006f34"
+   ],
+   "touches": [
+    "agents",
+    "briefing page"
+   ]
+  },
+  {
+   "id": "commerce-line",
+   "title": "Commerce on a static site: where to draw the build or buy line",
+   "level": 1,
+   "captured": "2026-11-27",
+   "evidence": [
+    "plans/2026-11-27-commerce/report.md",
+    "https://claude.ai/artifact/KxfPkfzypWRCuLkf4E7xhL"
+   ],
+   "touches": [
+    "payments",
+    "static sites",
+    "vaults"
+   ]
+  },
+  {
+   "id": "events-mvp",
+   "title": "Events: one place for every event in a person's life",
+   "level": 2,
+   "captured": "2026-11-27",
+   "evidence": [
+    "plans/2026-11-27-events/events-mvp.md",
+    "https://claude.ai/artifact/CeEyXJhbWLJTCr6i6jU2Nx"
+   ],
+   "touches": [
+    "CRM",
+    "calendar twin",
+    "mail twin",
+    "Apple",
+    "transcription",
+    "sgit"
+   ]
+  },
+  {
+   "id": "calendar-on-sgit",
+   "title": "A calendar under version control on sgit",
+   "level": 2,
+   "captured": "2026-11-27",
+   "evidence": [
+    "plans/2026-11-27-events/calendar-on-sgit.md",
+    "https://claude.ai/artifact/ENeTBQ3W7zwZcwCbbCh1Ws"
+   ],
+   "touches": [
+    "sgit",
+    "calendar twin",
+    "CRM"
+   ]
+  },
+  {
+   "id": "meetscribe-store",
+   "title": "VoiceDebrief MeetScribe on the Chrome Web Store",
+   "level": 4,
+   "captured": "2026-11-27",
+   "evidence": [
+    "plans/2026-11-27-meetscribe-store.md",
+    "VoiceDebrief__Chrome_Extension__MeetScribe v0.3.5 (b2e4f79)"
+   ],
+   "touches": [
+    "transcription",
+    "OpenRouter",
+    "events MVP"
+   ]
+  },
+  {
+   "id": "briefing-page",
+   "title": "Dinis's live briefing page fed by JSON in repositories",
+   "level": 4,
+   "captured": "2026-11-27",
+   "evidence": [
+    "briefing.json",
+    "https://observability.agents.sovereignweb.site/factory/dinis-cruz/account-f/briefing/"
+   ],
+   "touches": [
+    "observability",
+    "decisions"
+   ]
+  }
  ],
  "intersections": [
-  {"between": ["events-mvp", "calendar-on-sgit"], "what": "the calendar vault is the events MVP's event store"},
-  {"between": ["events-mvp", "meetscribe-store"], "what": "a meeting transcript and debrief can become event candidates and CRM actions"},
-  {"between": ["events-mvp", "CRM", "mail twin"], "what": "attendees are CRM people; invitations come from the mail twin"},
-  {"between": ["commerce-line", "calendar-on-sgit"], "what": "both keep the customer-facing data in git or a vault and buy only liability-heavy services"}
- ]
+  {
+   "between": [
+    "events-mvp",
+    "calendar-on-sgit"
+   ],
+   "what": "the calendar vault is the events MVP's event store"
+  },
+  {
+   "between": [
+    "events-mvp",
+    "meetscribe-store"
+   ],
+   "what": "a meeting transcript and debrief can become event candidates and CRM actions"
+  },
+  {
+   "between": [
+    "events-mvp",
+    "CRM",
+    "mail twin"
+   ],
+   "what": "attendees are CRM people; invitations come from the mail twin"
+  },
+  {
+   "between": [
+    "commerce-line",
+    "calendar-on-sgit"
+   ],
+   "what": "both keep the customer-facing data in git or a vault and buy only liability-heavy services"
+  }
+ ],
+ "strategy": {
+  "said_by": "Dinis",
+  "when": "2026-11-27T11:5xZ",
+  "words": "the core strategy is that all of this (i.e. sites) are way for users/customers to experience ABPs",
+  "meaning_for_the_site": "each idea page shows the behaviour policy (ABP) of the agents and tools behind it, what they may and may not touch, so a visitor experiences the policy, not only reads the idea"
+ }
 }
