@@ -1,8 +1,21 @@
 {
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T10:45Z",
+ "updated": "2026-11-27T10:46Z",
  "note": "Work cells: one brief, one diff, applied by the owner of the target repository. See decisions/2026-11-27-work-cells.md.",
  "cells": [
-  {"id": "2026-11-27-briefing-page", "brief": "cells/2026-11-27-briefing-page/brief.md", "objective": "make the briefing page readable: questions with text and paste lines, urgent first", "roles": {"design_ux": "cl-6.design@dinis", "dev": "cl-6.observability@dinis", "review": "cl-6.maestro@dinis"}, "target": "observability site, briefing page", "state": "briefed", "opened": "2026-11-27T10:45Z"}
+  {
+   "id": "2026-11-27-briefing-page",
+   "brief": "cells/2026-11-27-briefing-page/brief.md",
+   "objective": "make the briefing page readable: questions with text and paste lines, urgent first",
+   "roles": {
+    "design_ux": "cl-6.design@dinis",
+    "dev": "cl-6.observability@dinis",
+    "review": "cl-6.maestro@dinis"
+   },
+   "target": "observability site, briefing page",
+   "state": "working",
+   "opened": "2026-11-27T10:45Z",
+   "layout": "https://github.com/SovereignWebsite/Site__Agent__Design/blob/dev/site/factory/dinis-cruz/account-f/cells/2026-11-27-briefing-page-layout.md (42727bc)"
+  }
  ]
 }
