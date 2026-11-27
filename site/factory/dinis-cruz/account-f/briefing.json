@@ -1,0 +1,201 @@
+{
+ "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
+ "kept_by": "cl-6.maestro@dinis",
+ "updated": "2026-11-27T10:30Z",
+ "sources": {
+  "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
+  "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
+  "agents_view": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Observability/dev/site/factory/dinis-cruz/account-f/agents.json",
+  "vicky": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/vicky.md"
+ },
+ "waiting_on_dinis": [
+  {
+   "id": "journalist-website",
+   "urgency": "high",
+   "what": "Attach PrompTugal__News__Website (push) in cl-6.journalist's session; it cannot release; the Tube chart text is wrong after 12:00 UTC 27 Nov",
+   "where": "https://claude.ai/code/session_016CrbJNYGCQ9RLyq8e7aVU7",
+   "line": "add PrompTugal/PrompTugal__News__Website (push access)"
+  },
+  {
+   "id": "devops-website",
+   "urgency": "medium",
+   "what": "Same line in cl-6.devops's session",
+   "where": "https://claude.ai/code/session_016CrbJK7qgEKhvrRXNs9wCo",
+   "line": "add PrompTugal/PrompTugal__News__Website (push access)"
+  },
+  {
+   "id": "places-wake",
+   "urgency": "medium",
+   "what": "cl-6.places's wake still says sub-agents (record p11g); change it in its own session",
+   "where": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
+   "line": "update your wake trig_0132oarAUsN5cwmgTAbj3GGk to run the places one after another, no sub-agents, never London"
+  },
+  {
+   "id": "resets",
+   "urgency": "medium",
+   "what": "Reset sessions past 50% of their window: cl-6.maestro (63%), cl-6.data (65%), cl-6.security@dinis (60%), cl-6.reviewer (57%)",
+   "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "line": "yes, reset the maestro, data, reviewer and security"
+  },
+  {
+   "id": "sgit-github",
+   "urgency": "medium",
+   "what": "SGit-AI is read-only from account 6: reconnect GitHub or install the Claude GitHub App on SGit-AI (blocks cl-6.website and any CLI dev)",
+   "where": "https://claude.ai/connect-github"
+  },
+  {
+   "id": "sgsend-decisions",
+   "urgency": "medium",
+   "what": "SG/Send vault API plan: decisions D1 to D7 (vault host, batch semantics, 403/401, lane rename, which 'mapping', unknown callers, open the PR)",
+   "where": "https://github.com/the-cyber-boardroom/SGraph-AI__App__Send/blob/claude/sg-api-vault-map-016CrbJL9HXM/team/roles/conductor/reviews/11/27/v0.33.69__map-and-plan__sg-api-for-vaults.md"
+  },
+  {
+   "id": "abp",
+   "urgency": "medium",
+   "what": "In cl-6.abp's session: the pin ABP_PIN_KEY_SHA256=d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318 (environment), 'yes to P15' (api.tfl.gov.uk), the P9 pull-request opener, P16, a session-independent pin key",
+   "where": "https://claude.ai/code/session_016CrbJLnbr219cU3eVRGxBW"
+  },
+  {
+   "id": "network",
+   "urgency": "low",
+   "what": "Network capture: limited environments, P1 yes (telemetry audits tool calls), a non-public home for host rows and the accountant's figures",
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Security/blob/dev/site/factory/dinis-cruz/account-f/designs/2026-11-26-network-capture.md"
+  },
+  {
+   "id": "librarian-push",
+   "urgency": "low",
+   "what": "cl-6.librarian's push to dev was refused by its own permission check: say yes in its session",
+   "where": "https://claude.ai/code/session_016CrbJL9iaXQ1KjPkESLpRK"
+  },
+  {
+   "id": "router-a",
+   "urgency": "low",
+   "what": "Five messages for accounts A and B stuck on router.a (asleep): observability handover, CBR editor notice, signer full-id patch, CMS review, CMS proposal. Wake router.a or paste each",
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/now.md"
+  },
+  {
+   "id": "iac",
+   "urgency": "low",
+   "what": "Merge PrompTugal__IaC #28 then #32",
+   "where": "https://github.com/PrompTugal/PrompTugal__IaC/pulls"
+  },
+  {
+   "id": "sgit-questions",
+   "urgency": "low",
+   "what": "sgit conductor's open questions (map.md)",
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sgit/map.md"
+  },
+  {
+   "id": "cbr-questions",
+   "urgency": "low",
+   "what": "CBR conductor's open questions (map.md section 6)",
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/cbr/map.md"
+  },
+  {
+   "id": "sw-questions",
+   "urgency": "low",
+   "what": "Sovereign Website conductor: decisions 2 to 4 (map.md section 6)",
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/map.md"
+  },
+  {
+   "id": "studio-videos",
+   "urgency": "low",
+   "what": "cl-6.studio's planned videos: topics, presenter and voice, a voice key with a spend cap",
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Studio/blob/dev/site/factory/dinis-cruz/account-f/plan.md"
+  }
+ ],
+ "to_review": [
+  {
+   "what": "Captions for 'Sovereign story' (Instagram, YouTube Shorts, LinkedIn): approve, change or drop; page to link; inspiration credit",
+   "json": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Social/dev/site/factory/dinis-cruz/account-f/drafts/2026-11-27-sovereign-story.json",
+   "kind": "social-draft"
+  },
+  {
+   "what": "'Sovereign story' deck (live)",
+   "url": "https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/decks/sovereign-story/"
+  },
+  {
+   "what": "CMS prototype for owners (cl-6.onboarding)",
+   "url": "https://onboarding.agents.sovereignweb.site/factory/dinis-cruz/account-f/cms/"
+  },
+  {
+   "what": "cl-6.design round 1 (hub, sovereign-website.startups)",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Design/blob/dev/site/factory/dinis-cruz/account-f/round-1/proposal.md"
+  }
+ ],
+ "projects": [
+  {
+   "name": "PrompTugal.news",
+   "conductor": "cl-6.conductor@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt",
+   "state": "41 agents with key and area; London place and data agents new; Vicky's team publishing (S87 at 08:11)"
+  },
+  {
+   "name": "Sovereign Website (account 6 share)",
+   "conductor": "cl-6.conductor@SovereignWebsite.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMEoSe4amZo797Zpta",
+   "state": "studio, librarian, design, onboarding (CMS), observability-sw, social started; account B at 73%"
+  },
+  {
+   "name": "sgit",
+   "conductor": "cl-6.conductor@sgit.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJApzXjpoWrGMpA4u9",
+   "state": "read-only until SGit-AI access; cl-6.website waiting"
+  },
+  {
+   "name": "SG/Send vault API",
+   "conductor": "cl-6.conductor@SGSend.dinis",
+   "session": "https://claude.ai/code/session_016CrbJL9HXMutDbCSwhPb6o",
+   "state": "map and plan written; waits on D1 to D7"
+  },
+  {
+   "name": "The Cyber Boardroom",
+   "conductor": "cl-6.conductor-cbr@CBR.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMcK18EPwejc2vhzB5",
+   "state": "new site pushed (6c47722); questions open"
+  },
+  {
+   "name": "Account 6 itself",
+   "conductor": "cl-6.maestro@dinis",
+   "session": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "state": "hourly watch; observability view at https://observability.agents.sovereignweb.site/factory/dinis-cruz/account-f/agents/"
+  }
+ ],
+ "decisions": [
+  {
+   "date": "2026-11-27",
+   "title": "A project on SG/Send's vault API; Studio deploy fix (option 1)",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/decisions/2026-11-27-sgsend-vault-api.md"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Network: no web reads from the maestro; capture every request",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/decisions/2026-11-26-network-capture.md"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Create a missing agent when Dinis asks for it",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/decisions/2026-11-26-create-missing-agents.md"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Conductor reset by a signed decision",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/decisions/2026-11-26-conductor-reset-record.md"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Unblock Vicky's team; visibility",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/decisions/2026-11-26-unblock-vickys-team.md"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Conductors for sgit and CBR",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/decisions/2026-11-26-conductors-sgit-and-cbr.md"
+  },
+  {
+   "date": "all",
+   "title": "Signed decision records (cl-6.decisions)",
+   "url": "https://github.com/SovereignWebsite/Site__Agent__Decisions/tree/dev/site/factory/dinis-cruz/account-f/records"
+  }
+ ]
+}
