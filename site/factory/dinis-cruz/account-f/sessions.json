@@ -2,9 +2,18 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-26T17:04Z",
+ "updated": "2026-11-27T01:34Z",
  "note": "Sessions cl-6.maestro started, newest first.",
  "sessions": [
+  {
+   "name": "cl-6.conductor@SGSend.dinis",
+   "session": "https://claude.ai/code/session_016CrbJL9HXMutDbCSwhPb6o",
+   "does": "project on SG/Send's API used by the vaults; the-cyber-boardroom/SGraph-AI__App__Send; first task a map and plan",
+   "started": "2026-11-27T01:33Z",
+   "started_by": "cl-6.maestro@dinis, at Dinis's word (decisions/2026-11-27-sgsend-vault-api.md)",
+   "model": "opus",
+   "environment": "Default (limited)"
+  },
   {
    "name": "cl-6.conductor@SovereignWebsite.dinis",
    "session": "https://claude.ai/code/session_016CrbJMEoSe4amZo797Zpta",
