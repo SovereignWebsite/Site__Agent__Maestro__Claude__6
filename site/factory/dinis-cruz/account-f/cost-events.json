@@ -1,7 +1,7 @@
 {
  "about": "Session resets and replacements, model changes, and wakes created, changed or disabled by cl-6.maestro@dinis, for the cost-reduction track (Dinis, 26 Nov about 16:00 UTC, relayed by cl-6.conductor@PrompTugal.dinis). Sent to cl-6.accountant@PrompTugal.dinis and cl-6.accountant@dinis as they happen. Earlier events by the previous maestro session are in its sessions.json, now.md and handover.md, not repeated here.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T01:34Z",
+ "updated": "2026-11-27T01:37Z",
  "events": [
   {
    "at": "2026-11-26T13:43Z",
@@ -373,6 +373,14 @@
    "session": "session_016CrbJL9HXMutDbCSwhPb6o",
    "model": "opus",
    "why": "Dinis: a project on SG/Send's vault API"
+  },
+  {
+   "at": "2026-11-27T01:36Z",
+   "kind": "session_created",
+   "agent": "cl-6.website@sgit.dinis",
+   "session": "session_016CrbJJBxxMtZtCXzFBB9Nf",
+   "model": "sonnet",
+   "why": "Dinis: a session for SGit-AI__Website"
   }
  ],
  "analysis": "https://github.com/SovereignWebsite/Site__Agent__Accountant/blob/dev/site/factory/dinis-cruz/account-f/analysis.md (cl-6.accountant@dinis); it logs the 13:54 sessions and the 14:05 prompt extension as added cost, not reductions"
