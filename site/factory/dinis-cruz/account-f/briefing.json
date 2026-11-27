@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T11:35Z",
+ "updated": "2026-11-27T11:37Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -16,6 +16,13 @@
    "what": "Attach PrompTugal__News__Website (push) in cl-6.journalist's session; it cannot release; the Tube chart text is wrong after 12:00 UTC 27 Nov",
    "where": "https://claude.ai/code/session_016CrbJNYGCQ9RLyq8e7aVU7",
    "line": "add PrompTugal/PrompTugal__News__Website (push access)"
+  },
+  {
+   "id": "ideas-site",
+   "urgency": "today",
+   "what": "Ideas site (Site__Ideas, ideas.sovereignweb.site): merge the infrastructure request when cl-6.conductor@SovereignWebsite raises it, then say yes to its keeper session",
+   "where": "cl-6.maestro's session; seed in ideas/index.json",
+   "line": "\"yes, start the ideas keeper\" (after the merge)"
   },
   {
    "id": "work-cells",
@@ -139,6 +146,12 @@
   }
  ],
  "projects": [
+  {
+   "name": "Ideas (work cells, commerce line, events MVP, calendar on sgit, MeetScribe store)",
+   "conductor": "cl-6.maestro@dinis",
+   "session": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "state": "staged in ideas/index.json with maturity 0 to 6; site requested from the SovereignWebsite conductor"
+  },
   {
    "name": "PrompTugal.news",
    "conductor": "cl-6.conductor@PrompTugal.dinis",
