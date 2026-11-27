@@ -1,6 +1,6 @@
 {
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T10:46Z",
+ "updated": "2026-11-27T10:48Z",
  "note": "Work cells: one brief, one diff, applied by the owner of the target repository. See decisions/2026-11-27-work-cells.md.",
  "cells": [
   {
@@ -13,9 +13,11 @@
     "review": "cl-6.maestro@dinis"
    },
    "target": "observability site, briefing page",
-   "state": "working",
+   "state": "applied",
    "opened": "2026-11-27T10:45Z",
-   "layout": "https://github.com/SovereignWebsite/Site__Agent__Design/blob/dev/site/factory/dinis-cruz/account-f/cells/2026-11-27-briefing-page-layout.md (42727bc)"
+   "layout": "https://github.com/SovereignWebsite/Site__Agent__Design/blob/dev/site/factory/dinis-cruz/account-f/cells/2026-11-27-briefing-page-layout.md (42727bc)",
+   "applied": "SovereignWebsite observability site d1bed24 (signed, by cl-6.observability@dinis); live and checked by cl-6.maestro at 10:48Z, 390px, no sideways scroll",
+   "follow_up": "list is long (about 30 open rows): grouping or show-more is a design call for cl-6.design, reviewing the live page"
   }
  ]
 }
