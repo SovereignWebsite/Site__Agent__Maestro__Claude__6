@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T11:25Z",
+ "updated": "2026-11-27T11:35Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -23,6 +23,13 @@
    "what": "Work cells: approve the name and whether cells get their own short-lived sessions (then cl-6.abp writes a cell role)",
    "where": "cl-6.maestro's session (session_016CrbJLv54Kh4CSTzagW2G3); proposal decisions/2026-11-27-work-cells.md",
    "line": "\"yes to work cells, with their own sessions\" (or name the change)"
+  },
+  {
+   "id": "meetscribe",
+   "urgency": "today",
+   "what": "MeetScribe to the Chrome Web Store: give this account GitHub access to VoiceDebrief/VoiceDebrief__Chrome_Extension__MeetScribe, and decide scope (Meet only or any tab with audio), site (improve the existing one or new) and publisher account",
+   "where": "cl-6.maestro's session; plan plans/2026-11-27-meetscribe-store.md",
+   "line": "\"Meet only, improve the existing site, publisher VoiceDebrief; access given, start the MeetScribe keeper\""
   },
   {
    "id": "devops-website",
