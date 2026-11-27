@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T11:37Z",
+ "updated": "2026-11-27T11:40Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -20,9 +20,9 @@
   {
    "id": "ideas-site",
    "urgency": "today",
-   "what": "Ideas site (Site__Ideas, ideas.sovereignweb.site): merge the infrastructure request when cl-6.conductor@SovereignWebsite raises it, then say yes to its keeper session",
-   "where": "cl-6.maestro's session; seed in ideas/index.json",
-   "line": "\"yes, start the ideas keeper\" (after the merge)"
+   "what": "Ideas site: request drafted (Site__Ideas at ideas.sovereignweb.site; IaC requests/2026-11-27__ideas/site.json plus a one-line NO_GROUP patch; validate and tests pass). Say yes, then merge the IaC PR when factory.b opens it; then the keeper starts.",
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/proposals/2026-11-27-ideas-site/README.md",
+   "line": "\"yes to the ideas site as Site__Ideas at ideas.sovereignweb.site\" (or \"use a group: dinis-cruz.ideas\")"
   },
   {
    "id": "work-cells",
