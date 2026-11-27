@@ -1,12 +1,13 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T10:30Z",
+ "updated": "2026-11-27T10:38Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
   "agents_view": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Observability/dev/site/factory/dinis-cruz/account-f/agents.json",
-  "vicky": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/vicky.md"
+  "vicky": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/vicky.md",
+  "questions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Decisions/dev/site/factory/dinis-cruz/account-f/questions.json"
  },
  "waiting_on_dinis": [
   {
@@ -131,6 +132,12 @@
    "state": "41 agents with key and area; London place and data agents new; Vicky's team publishing (S87 at 08:11)"
   },
   {
+   "name": "PrompTugal editor-in-chief",
+   "conductor": "cl-6.conductor@PrompTugal.dinis",
+   "session": "",
+   "state": "recorded (decisions d708bd4); home IaC #38 waits on #34 and Dinis's merge; grant with cl-6.abp"
+  },
+  {
    "name": "Sovereign Website (account 6 share)",
    "conductor": "cl-6.conductor@SovereignWebsite.dinis",
    "session": "https://claude.ai/code/session_016CrbJMEoSe4amZo797Zpta",
@@ -197,5 +204,7 @@
    "title": "Signed decision records (cl-6.decisions)",
    "url": "https://github.com/SovereignWebsite/Site__Agent__Decisions/tree/dev/site/factory/dinis-cruz/account-f/records"
   }
- ]
+ ],
+ "page": "https://observability.agents.sovereignweb.site/factory/dinis-cruz/account-f/briefing/",
+ "note": "Questions for Dinis live in cl-6.decisions' questions.json (agreed 27 Nov); this file keeps sessions, environments and access."
 }
