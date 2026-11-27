@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T14:54Z",
+ "updated": "2026-11-27T14:55Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -19,10 +19,10 @@
   },
   {
    "id": "ideas-site",
-   "urgency": "next",
-   "what": "Ideas sites (Site__Ideas at ideas.sovereignweb.site, Site__Ideas__Dinis-Cruz at dinis-cruz.ideas.sovereignweb.site): your yes given 14:52; routed via cl-6.router to factory.b; you merge the IaC PR when it opens, then the keeper starts.",
-   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/proposals/2026-11-27-ideas-site/README.md",
-   "line": "merge the SovereignWebsite__IaC PR for 2026-11-27__ideas when it opens"
+   "urgency": "high",
+   "what": "Ideas sites: your yes is recorded, but the route to account B is stalled (router.a has acked nothing since 25 Nov; message f2a-20261127T1455-carry-ideas-site waits). The sure route is to paste the line below into factory.b's session; then merge its IaC PR.",
+   "where": "factory.b's session (account B)",
+   "line": "\"commit to SovereignWebsite__IaC exactly as drafted, on my behalf, the ideas requests (2026-11-27__ideas and 2026-11-27__dinis-cruz, group ideas, NO_GROUP patch) from https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/proposals/2026-11-27-ideas-site/README.md (not the author site)\""
   },
   {
    "id": "author-site-held",
