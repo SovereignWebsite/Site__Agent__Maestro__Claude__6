@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T15:37Z",
+ "updated": "2026-11-27T15:50Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -138,6 +138,13 @@
    "urgency": "low",
    "what": "cl-6.studio's planned videos: topics, presenter and voice, a voice key with a spend cap",
    "where": "https://github.com/SovereignWebsite/Site__Agent__Studio/blob/dev/site/factory/dinis-cruz/account-f/plan.md"
+  },
+  {
+   "id": "studio-c-cast",
+   "urgency": "next",
+   "what": "Signed video with the cast: cl-6.studio's plan needs studio.c (account C); the cross-account route is stalled at router.a",
+   "where": "studio.c's session (account C)",
+   "line": "\"cl-6.studio (session_016CrbJJe27HT4pDaUAkSFEi) will deliver a clean vertical Signed film (1080x1920, sound) and a timeline with cast slots (opening card, beside 'Who holds the keys? / You do.', closing card, optional small presenter in history and policy scenes, clear of text and the bottom fifth); please composite the cast with your 'Synthetic presenter' labels for instagram.c, and tell cl-6.studio which characters, which file format, and whether the empty lower areas must be a fixed size\""
   }
  ],
  "to_review": [
