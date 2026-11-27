@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T14:55Z",
+ "updated": "2026-11-27T15:22Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -20,16 +20,9 @@
   {
    "id": "ideas-site",
    "urgency": "high",
-   "what": "Ideas sites: your yes is recorded, but the route to account B is stalled (router.a has acked nothing since 25 Nov; message f2a-20261127T1455-carry-ideas-site waits). The sure route is to paste the line below into factory.b's session; then merge its IaC PR.",
+   "what": "Three site requests (ideas home, dinis-cruz.ideas, and the author site you cleared at 15:21) are drafted and validated; the route to account B is stalled at router.a. Paste the line below into factory.b's session, then merge its IaC PR.",
    "where": "factory.b's session (account B)",
-   "line": "\"commit to SovereignWebsite__IaC exactly as drafted, on my behalf, the ideas requests (2026-11-27__ideas and 2026-11-27__dinis-cruz, group ideas, NO_GROUP patch) from https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/proposals/2026-11-27-ideas-site/README.md (not the author site)\""
-  },
-  {
-   "id": "author-site-held",
-   "urgency": "next",
-   "what": "The author site you asked for in cl-6.conductor@SovereignWebsite's session is drafted and held until you confirm the author agrees to a public address",
-   "where": "https://claude.ai/code/session_016CrbJMEoSe4amZo797Zpta",
-   "line": "confirm consent in cl-6.conductor@SovereignWebsite's session"
+   "line": "\"commit to SovereignWebsite__IaC exactly as drafted, on my behalf, requests 2026-11-27__ideas, 2026-11-27__dinis-cruz (group ideas, with the NO_GROUP patch) and 2026-11-27__a-oliveira-cruz, from SovereignWebsite/Site__Agent__Conductor dev 390b93e, proposals 2026-11-27-ideas-site and 2026-11-27-poet-site\""
   },
   {
    "id": "work-cells",
