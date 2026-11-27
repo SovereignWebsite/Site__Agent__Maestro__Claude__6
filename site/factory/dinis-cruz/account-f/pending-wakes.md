@@ -30,7 +30,7 @@ cl-6.abp's R4: only cl-6.maestro starts sessions and wakes, until Dinis says P4 
 
 ## Wake changes waiting
 
-- **cl-6.places, trig_0132oarAUsN5cwmgTAbj3GGk**: signed record 2026-11-26__abp-p11g (Site__Agent__Decisions 5b4b226) says run the places one after another, no sub-agents. 16:38 UTC: update_trigger refused by the platform (a wake's prompt can be changed only from the session it posts into); asking cl-6.places to apply it itself was refused by this session's permission check. Waits on Dinis: he changes it in cl-6.places' session (session_016CrbJJcoCJnQM6GGY1xC5K), or says how.
+- **cl-6.places, trig_0132oarAUsN5cwmgTAbj3GGk**: signed record 2026-11-26__abp-p11g (Site__Agent__Decisions 5b4b226) says run the places one after another, no sub-agents. 16:38 UTC: update_trigger refused by the platform (a wake's prompt can be changed only from the session it posts into); asking cl-6.places to apply it itself was refused by this session's permission check. Waits on Dinis: he changes it in cl-6.places' session (session_016CrbJJcoCJnQM6GGY1xC5K), or says how. 27 Nov 07:41 UTC: a replacement wake and disabling the old one were both refused by this session's permission check.
 
 - **cl-6.onboarding@SovereignWebsite.dinis** (the web CMS for owners; Dinis asked about 16:50 UTC in cl-6.conductor-sw's session which agent does it; none does): Started 16:53 UTC at Dinis's yes here (session_016CrbJL9nXnBiLGoiXLGM2N). Sonnet, limited "Default", Site__Agent__Onboarding only, fictional demo owner, never a vault key.
 
