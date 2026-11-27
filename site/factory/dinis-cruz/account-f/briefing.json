@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T10:50Z",
+ "updated": "2026-11-27T11:25Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -40,10 +40,10 @@
   },
   {
    "id": "resets",
-   "urgency": "medium",
-   "what": "Reset sessions past 50% of their window: cl-6.maestro (63%), cl-6.data (65%), cl-6.security@dinis (60%), cl-6.reviewer (57%)",
+   "urgency": "today: cl-6.decisions at 76% is near auto-compaction",
+   "what": "Reset sessions past 50% (observability 11:3x UTC): cl-6.decisions 76.3%, cl-6.journalist 69.3%, cl-6.translator 65.1%, cl-6.ontologist 64.2%, cl-6.library 63.2%, cl-6.security@dinis 64.9%, cl-6.reviewer 61.3%. Maestro is back to 21.7% and cl-6.data to 33.1%, so no reset for those.",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
-   "line": "yes, reset the maestro, data, reviewer and security"
+   "line": "\"yes, reset decisions, journalist, translator, ontologist, library and reviewer\" (security@dinis is yours to reset)"
   },
   {
    "id": "sgit-github",
