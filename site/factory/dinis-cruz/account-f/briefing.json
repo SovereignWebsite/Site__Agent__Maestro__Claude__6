@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T11:40Z",
+ "updated": "2026-11-27T12:37Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -12,7 +12,7 @@
  "waiting_on_dinis": [
   {
    "id": "journalist-website",
-   "urgency": "high",
+   "urgency": "high: the 12:00 UTC slot passed; still blocks all publishing",
    "what": "Attach PrompTugal__News__Website (push) in cl-6.journalist's session; it cannot release; the Tube chart text is wrong after 12:00 UTC 27 Nov",
    "where": "https://claude.ai/code/session_016CrbJNYGCQ9RLyq8e7aVU7",
    "line": "add PrompTugal/PrompTugal__News__Website (push access)"
