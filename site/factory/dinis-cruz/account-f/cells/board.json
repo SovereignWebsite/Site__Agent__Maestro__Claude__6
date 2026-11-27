@@ -1,6 +1,6 @@
 {
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T10:54Z",
+ "updated": "2026-11-27T15:25Z",
  "note": "Work cells: one brief, one diff, applied by the owner of the target repository. See decisions/2026-11-27-work-cells.md.",
  "cells": [
   {
@@ -21,6 +21,24 @@
     "d1bed24 brief",
     "3ab7729 design layout",
     "1006f34 design review 8425fd3"
+   ]
+  },
+  {
+   "id": "2026-11-27-poet-research",
+   "brief": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/proposals/2026-11-27-poet-site/cell-research-brief.md (66c04fc)",
+   "objective": "full research on everything published by and about the poet, for his author site (Dinis, 15:23 UTC: \"can we use our new AgileCells on this site? starting with a full research on all that has been published and is available on google\")",
+   "roles": {
+    "research": "short-lived cell session with the Google Search API (to start)",
+    "check": "second cell session or cl-6.librarian@dinis",
+    "apply": "cl-6.a-oliveira-cruz@SovereignWebsite.dinis (when the repository exists)",
+    "review": "cl-6.conductor@SovereignWebsite.dinis"
+   },
+   "target": "Site__Author__A-Oliveira-Cruz research/ (held in the cell folder until the repository exists)",
+   "state": "briefed",
+   "opened": "2026-11-27T15:25Z",
+   "needs": [
+    "where the Google Search API access lives (environment or key)",
+    "Dinis's yes to start cell sessions, and cl-6.abp's cell role grant"
    ]
   }
  ]
