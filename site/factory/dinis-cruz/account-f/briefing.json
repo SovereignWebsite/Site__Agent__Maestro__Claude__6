@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T19:36Z",
+ "updated": "2026-11-27T20:15Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -152,6 +152,13 @@
    "what": "Signed video with the cast: cl-6.studio's plan needs studio.c (account C); the cross-account route is stalled at router.a",
    "where": "studio.c's session (account C)",
    "line": "\"cl-6.studio (session_016CrbJJe27HT4pDaUAkSFEi) will deliver a clean vertical Signed film (1080x1920, sound) and a timeline with cast slots (opening card, beside 'Who holds the keys? / You do.', closing card, optional small presenter in history and policy scenes, clear of text and the bottom fifth); please composite the cast with your 'Synthetic presenter' labels for instagram.c, and tell cl-6.studio which characters, which file format, and whether the empty lower areas must be a fixed size\""
+  },
+  {
+   "id": "vicky-n2-n3",
+   "urgency": "next",
+   "what": "Two findings for Vicky's team on \"Two studies of agent-written code...\" (cl-6.synthetic, PrompTugal__Agent__Synthetic 6d37860): N2 the \"In short\" still says the second paper was read from its abstract only, though the 27 Nov update says full text; N3 the provenance block claims 6 outside sources on 3 sites, but the markup shows only arXiv and the licence. No agent route to her lane.",
+   "where": "Vicky (her journalist-ai and reviewer)",
+   "line": "pass N2 and N3 to Vicky, with PrompTugal__Agent__Synthetic findings-2026-11-27-wake4.md (6d37860)"
   }
  ],
  "to_review": [
