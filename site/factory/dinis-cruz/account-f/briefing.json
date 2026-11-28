@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-28T00:37Z",
+ "updated": "2026-11-28T01:01Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -16,6 +16,27 @@
    "what": "Publishing is blocked: the journalist has no website attached. Route agreed by cl-6.abp and cl-6.decisions (questions.json a7914b5): the maestro starts a journalist session with PrompTugal__News__Website as its source; attaches the repository only, widens nothing (content/about/** stays held under P11 h; content/index.md not included).",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
    "line": "\"yes, start a journalist session with PrompTugal__News__Website as its source\""
+  },
+  {
+   "id": "talk-drain",
+   "urgency": "high",
+   "what": "promptugal.news feedback is not wired: /talk/ comments go to a lane sealed to a superseded conductor key and nothing drains them, so anything sent there is lost (the box says the conductor reads every one). Fix: give cl-6.conductor@PrompTugal the drain.",
+   "where": "cl-6.abp's or cl-6.decisions' session",
+   "line": "\"Yes: cl-6.conductor owns the talk_lane drain per board/talk-drain.md. Grant it host dev.send.sgraph.ai (lane calls only), one no-tool summariser sub-agent, and writes to Website board/inbox.json and board/talk/replies.json. It may create one talk lane sealed to its own key, credential as a session secret. cl-6.dev makes the drain verify promptugal/comment/v1. cl-6.security reviews the first drain and answer.\""
+  },
+  {
+   "id": "admin-section",
+   "urgency": "next",
+   "what": "PrompTugal private /admin/ behind sign-in (newsroom stays public): your feedback signed with your key, your questions with answer buttons that count as your word, and site status (status page already being built at /newsroom/status/)",
+   "where": "https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt",
+   "line": "\"yes, build the /admin/ section as planned\""
+  },
+  {
+   "id": "maestro-lane-card",
+   "urgency": "next",
+   "what": "The maestro's inbound lane is live and tested (sealed to its key, drained signed-only). Publishing its card means committing its append token (write-only, add-only), as cl-6.router already does for its own lane; the repo rule says never commit a token. May append tokens be public?",
+   "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "line": "\"yes, publish lane append tokens\" or \"no, share the card privately\""
   },
   {
    "id": "strikes-session",
