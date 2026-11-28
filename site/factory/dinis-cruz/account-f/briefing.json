@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-28T01:37Z",
+ "updated": "2026-11-28T02:18Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -15,171 +15,299 @@
    "urgency": "now: no new article since 26 Nov",
    "what": "Publishing is blocked: the journalist has no website attached. Route agreed by cl-6.abp and cl-6.decisions (questions.json a7914b5): the maestro starts a journalist session with PrompTugal__News__Website as its source; attaches the repository only, widens nothing (content/about/** stays held under P11 h; content/index.md not included).",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
-   "line": "\"yes, start a journalist session with PrompTugal__News__Website as its source\""
+   "line": "\"yes, start a journalist session with PrompTugal__News__Website as its source\"",
+   "decision": "Let the journalist publish again",
+   "why": "No new PrompTugal article since 26 Nov.",
+   "deadline": null,
+   "options": [
+    {
+     "label": "Yes, start a journalist session with the website",
+     "recommended": true
+    },
+    {
+     "label": "Not yet"
+    }
+   ],
+   "answer_line": "yes, start a journalist session with PrompTugal__News__Website as its source",
+   "asked_by": "cl-6.decisions",
+   "category": "decide",
+   "details_url": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "since": "2026-11-27"
   },
   {
    "id": "talk-drain",
    "urgency": "high",
    "what": "promptugal.news feedback is not wired: /talk/ comments go to a lane sealed to a superseded conductor key and nothing drains them, so anything sent there is lost (the box says the conductor reads every one). Fix: give cl-6.conductor@PrompTugal the drain.",
    "where": "cl-6.abp's or cl-6.decisions' session",
-   "line": "\"Yes: cl-6.conductor owns the talk_lane drain per board/talk-drain.md. Grant it host dev.send.sgraph.ai (lane calls only), one no-tool summariser sub-agent, and writes to Website board/inbox.json and board/talk/replies.json. It may create one talk lane sealed to its own key, credential as a session secret. cl-6.dev makes the drain verify promptugal/comment/v1. cl-6.security reviews the first drain and answer.\""
+   "line": "\"Yes: cl-6.conductor owns the talk_lane drain per board/talk-drain.md. Grant it host dev.send.sgraph.ai (lane calls only), one no-tool summariser sub-agent, and writes to Website board/inbox.json and board/talk/replies.json. It may create one talk lane sealed to its own key, credential as a session secret. cl-6.dev makes the drain verify promptugal/comment/v1. cl-6.security reviews the first drain and answer.\"",
+   "decision": "Switch on reader feedback on promptugal.news",
+   "why": "Comments sent on /talk/ are lost today; the box says they are read.",
+   "options": [
+    {
+     "label": "Yes, the conductor collects and answers them",
+     "recommended": true
+    },
+    {
+     "label": "Turn the comment box off for now"
+    }
+   ],
+   "answer_line": "(long line on the details page, for cl-6.abp's session)",
+   "asked_by": "cl-6.maestro",
+   "category": "decide",
+   "deadline": null,
+   "details_url": "cl-6.abp's or cl-6.decisions' session",
+   "since": "2026-11-27"
   },
   {
    "id": "admin-section",
    "urgency": "next",
    "what": "PrompTugal private /admin/ behind sign-in (newsroom stays public): your feedback signed with your key, your questions with answer buttons that count as your word, and site status (status page already being built at /newsroom/status/)",
    "where": "https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt",
-   "line": "\"yes, build the /admin/ section as planned\""
+   "line": "\"yes, build the /admin/ section as planned\"",
+   "decision": "Build a private admin section on PrompTugal",
+   "why": "One place to give feedback, answer questions with a click, and see status.",
+   "options": [
+    {
+     "label": "Yes, build /admin/ as planned",
+     "recommended": true
+    },
+    {
+     "label": "Change the plan"
+    }
+   ],
+   "answer_line": "yes, build the /admin/ section as planned",
+   "asked_by": "cl-6.conductor@PrompTugal",
+   "category": "decide",
+   "deadline": null,
+   "details_url": "https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt",
+   "since": "2026-11-27"
   },
   {
    "id": "maestro-lane-card",
    "urgency": "next",
    "what": "The maestro's inbound lane is live and tested (sealed to its key, drained signed-only). Publishing its card means committing its append token (write-only, add-only), as cl-6.router already does for its own lane; the repo rule says never commit a token. May append tokens be public?",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
-   "line": "\"yes, publish lane append tokens\" or \"no, share the card privately\""
+   "line": "\"yes, publish lane append tokens\" or \"no, share the card privately\"",
+   "category": "later"
   },
   {
    "id": "strikes-session",
    "urgency": "today",
    "what": "London strikes site: the page is ready in place.london's home; strikes.london.place.agent.promptugal.news still shows only the README. The publishing session is prepared; it needs your word in the maestro's session.",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
-   "line": "\"yes, start the strikes session\""
+   "line": "\"yes, start the strikes session\"",
+   "decision": "Publish the London strikes page",
+   "why": "Page is ready; the site shows only a README.",
+   "options": [
+    {
+     "label": "Yes, start the strikes session",
+     "recommended": true
+    },
+    {
+     "label": "Drop it"
+    }
+   ],
+   "answer_line": "yes, start the strikes session",
+   "asked_by": "cl-6.conductor@PrompTugal",
+   "category": "decide",
+   "deadline": null,
+   "details_url": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "since": "2026-11-27"
   },
   {
    "id": "poet-research",
    "urgency": "today",
    "what": "Poet research cell (briefed): where does the Google Search API access live (which environment or key), and may I start short-lived cell sessions (cl-6.abp then writes the cell role grant)?",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
-   "line": "\"Google Search is in <environment or key>; yes, start the poet research cell\""
+   "line": "\"Google Search is in <environment or key>; yes, start the poet research cell\"",
+   "decision": "Start research for the poet's site",
+   "why": "Needs to know where the Google Search access lives.",
+   "options": [
+    {
+     "label": "Say where Google Search is, and yes"
+    }
+   ],
+   "answer_line": "Google Search is in <environment or key>; yes, start the poet research cell",
+   "asked_by": "cl-6.conductor@SovereignWebsite",
+   "category": "decide",
+   "deadline": null,
+   "details_url": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "since": "2026-11-27"
   },
   {
    "id": "librarian-c",
    "urgency": "next",
    "what": "c.maestro relayed your yes for a librarian on account 6 that keeps one shared vocabulary (terms.json) for agenticcells.org, home AgentiCCells__Agent__Librarian (to be requested via AgentiCCells__Site__Factory). cl-6.librarian@dinis already exists but has been blocked on push since 26 Nov: reuse it, or start a new one?",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
-   "line": "\"reuse cl-6.librarian for the vocabulary\" or \"start a new AgentiCCells librarian\""
+   "line": "\"reuse cl-6.librarian for the vocabulary\" or \"start a new AgentiCCells librarian\"",
+   "category": "later"
   },
   {
    "id": "ideas-site",
    "urgency": "high",
    "what": "Three site requests (ideas home, dinis-cruz.ideas, and the author site you cleared at 15:21) are drafted and validated; the route to account B is stalled at router.a. Paste the line below into factory.b's session, then merge its IaC PR.",
    "where": "factory.b's session (account B)",
-   "line": "\"commit to SovereignWebsite__IaC exactly as drafted, on my behalf, requests 2026-11-27__ideas, 2026-11-27__dinis-cruz (group ideas, with the NO_GROUP patch) and 2026-11-27__a-oliveira-cruz, from SovereignWebsite/Site__Agent__Conductor dev 390b93e, proposals 2026-11-27-ideas-site and 2026-11-27-poet-site\""
+   "line": "\"commit to SovereignWebsite__IaC exactly as drafted, on my behalf, requests 2026-11-27__ideas, 2026-11-27__dinis-cruz (group ideas, with the NO_GROUP patch) and 2026-11-27__a-oliveira-cruz, from SovereignWebsite/Site__Agent__Conductor dev 390b93e, proposals 2026-11-27-ideas-site and 2026-11-27-poet-site\"",
+   "decision": "Create the ideas sites",
+   "why": "Your yes is recorded; account B has not picked it up.",
+   "options": [
+    {
+     "label": "Paste the line into factory.b's session",
+     "recommended": true
+    }
+   ],
+   "answer_line": "(line on the details page, for factory.b)",
+   "asked_by": "cl-6.conductor@SovereignWebsite",
+   "category": "decide",
+   "deadline": null,
+   "details_url": "factory.b's session (account B)",
+   "since": "2026-11-27"
   },
   {
    "id": "work-cells",
    "urgency": "today",
    "what": "Work cells: approve the name and whether cells get their own short-lived sessions (then cl-6.abp writes a cell role)",
    "where": "cl-6.maestro's session (session_016CrbJLv54Kh4CSTzagW2G3); proposal decisions/2026-11-27-work-cells.md",
-   "line": "\"yes to work cells, with their own sessions\" (or name the change)"
+   "line": "\"yes to work cells, with their own sessions\" (or name the change)",
+   "category": "later"
   },
   {
    "id": "meetscribe",
    "urgency": "today",
    "what": "MeetScribe to the Chrome Web Store: give this account GitHub access to VoiceDebrief/VoiceDebrief__Chrome_Extension__MeetScribe, and decide scope (Meet only or any tab with audio), site (improve the existing one or new) and publisher account",
    "where": "cl-6.maestro's session; plan plans/2026-11-27-meetscribe-store.md",
-   "line": "\"Meet only, improve the existing site, publisher VoiceDebrief; access given, start the MeetScribe keeper\""
+   "line": "\"Meet only, improve the existing site, publisher VoiceDebrief; access given, start the MeetScribe keeper\"",
+   "category": "later"
   },
   {
    "id": "devops-website",
    "urgency": "medium",
    "what": "Same line in cl-6.devops's session",
    "where": "https://claude.ai/code/session_016CrbJK7qgEKhvrRXNs9wCo",
-   "line": "add PrompTugal/PrompTugal__News__Website (push access)"
+   "line": "add PrompTugal/PrompTugal__News__Website (push access)",
+   "category": "later"
   },
   {
    "id": "places-wake",
    "urgency": "medium",
    "what": "cl-6.places's wake still says sub-agents (record p11g); change it in its own session",
    "where": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
-   "line": "update your wake trig_0132oarAUsN5cwmgTAbj3GGk to run the places one after another, no sub-agents, never London"
+   "line": "update your wake trig_0132oarAUsN5cwmgTAbj3GGk to run the places one after another, no sub-agents, never London",
+   "category": "later"
   },
   {
    "id": "resets",
    "urgency": "next",
    "what": "Sessions past 50% (observability 22:3x UTC): cl-6.translator 69.1%, cl-6.reviewer 65.1%, cl-6.ontologist 64.8%, cl-6.security@dinis 64.9%, cl-6.library 63.2%, cl-6.abp 52.6% (new). cl-6.decisions and cl-6.journalist are back under 50%. Maestro 43.7%: handover ready before 50%.",
    "where": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
-   "line": "\"yes, reset translator, reviewer, ontologist, library and abp\" (security@dinis is yours to reset)"
+   "line": "\"yes, reset translator, reviewer, ontologist, library and abp\" (security@dinis is yours to reset)",
+   "decision": "Refresh six tired agent sessions",
+   "why": "They are past half their memory; quality drops as they fill.",
+   "options": [
+    {
+     "label": "Yes, reset them",
+     "recommended": true
+    }
+   ],
+   "answer_line": "yes, reset translator, reviewer, ontologist, library and abp",
+   "asked_by": "cl-6.observability",
+   "category": "decide",
+   "deadline": null,
+   "details_url": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+   "since": "2026-11-27"
   },
   {
    "id": "sgit-github",
    "urgency": "medium",
    "what": "SGit-AI is read-only from account 6: reconnect GitHub or install the Claude GitHub App on SGit-AI (blocks cl-6.website and any CLI dev)",
-   "where": "https://claude.ai/connect-github"
+   "where": "https://claude.ai/connect-github",
+   "category": "later"
   },
   {
    "id": "sgsend-decisions",
    "urgency": "medium",
    "what": "SG/Send vault API plan: decisions D1 to D7 (vault host, batch semantics, 403/401, lane rename, which 'mapping', unknown callers, open the PR)",
-   "where": "https://github.com/the-cyber-boardroom/SGraph-AI__App__Send/blob/claude/sg-api-vault-map-016CrbJL9HXM/team/roles/conductor/reviews/11/27/v0.33.69__map-and-plan__sg-api-for-vaults.md"
+   "where": "https://github.com/the-cyber-boardroom/SGraph-AI__App__Send/blob/claude/sg-api-vault-map-016CrbJL9HXM/team/roles/conductor/reviews/11/27/v0.33.69__map-and-plan__sg-api-for-vaults.md",
+   "category": "later"
   },
   {
    "id": "abp",
    "urgency": "medium",
    "what": "In cl-6.abp's session: the pin ABP_PIN_KEY_SHA256=d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318 (environment), 'yes to P15' (api.tfl.gov.uk), the P9 pull-request opener, P16, a session-independent pin key",
-   "where": "https://claude.ai/code/session_016CrbJLnbr219cU3eVRGxBW"
+   "where": "https://claude.ai/code/session_016CrbJLnbr219cU3eVRGxBW",
+   "category": "later"
   },
   {
    "id": "network",
    "urgency": "low",
    "what": "Network capture: limited environments, P1 yes (telemetry audits tool calls), a non-public home for host rows and the accountant's figures",
-   "where": "https://github.com/SovereignWebsite/Site__Agent__Security/blob/dev/site/factory/dinis-cruz/account-f/designs/2026-11-26-network-capture.md"
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Security/blob/dev/site/factory/dinis-cruz/account-f/designs/2026-11-26-network-capture.md",
+   "category": "later"
   },
   {
    "id": "librarian-push",
    "urgency": "low",
    "what": "cl-6.librarian's push to dev was refused by its own permission check: say yes in its session",
-   "where": "https://claude.ai/code/session_016CrbJL9iaXQ1KjPkESLpRK"
+   "where": "https://claude.ai/code/session_016CrbJL9iaXQ1KjPkESLpRK",
+   "category": "later"
   },
   {
    "id": "router-a",
    "urgency": "low",
    "what": "Five messages for accounts A and B stuck on router.a (asleep): observability handover, CBR editor notice, signer full-id patch, CMS review, CMS proposal. Wake router.a or paste each",
-   "where": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/now.md"
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/now.md",
+   "category": "later"
   },
   {
    "id": "iac",
    "urgency": "low",
    "what": "Merge PrompTugal__IaC #28 then #32",
-   "where": "https://github.com/PrompTugal/PrompTugal__IaC/pulls"
+   "where": "https://github.com/PrompTugal/PrompTugal__IaC/pulls",
+   "category": "later"
   },
   {
    "id": "sgit-questions",
    "urgency": "low",
    "what": "sgit conductor's open questions (map.md)",
-   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sgit/map.md"
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sgit/map.md",
+   "category": "later"
   },
   {
    "id": "cbr-questions",
    "urgency": "low",
    "what": "CBR conductor's open questions (map.md section 6)",
-   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/cbr/map.md"
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/cbr/map.md",
+   "category": "later"
   },
   {
    "id": "sw-questions",
    "urgency": "low",
    "what": "Sovereign Website conductor: decisions 2 to 4 (map.md section 6)",
-   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/map.md"
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Conductor/blob/dev/site/factory/dinis-cruz/account-f/sovereignwebsite/map.md",
+   "category": "later"
   },
   {
    "id": "studio-videos",
    "urgency": "low",
    "what": "cl-6.studio's planned videos: topics, presenter and voice, a voice key with a spend cap",
-   "where": "https://github.com/SovereignWebsite/Site__Agent__Studio/blob/dev/site/factory/dinis-cruz/account-f/plan.md"
+   "where": "https://github.com/SovereignWebsite/Site__Agent__Studio/blob/dev/site/factory/dinis-cruz/account-f/plan.md",
+   "category": "later"
   },
   {
    "id": "studio-c-cast",
    "urgency": "next",
    "what": "Signed video with the cast: cl-6.studio's plan needs studio.c (account C); the cross-account route is stalled at router.a",
    "where": "studio.c's session (account C)",
-   "line": "\"cl-6.studio (session_016CrbJJe27HT4pDaUAkSFEi) will deliver a clean vertical Signed film (1080x1920, sound) and a timeline with cast slots (opening card, beside 'Who holds the keys? / You do.', closing card, optional small presenter in history and policy scenes, clear of text and the bottom fifth); please composite the cast with your 'Synthetic presenter' labels for instagram.c, and tell cl-6.studio which characters, which file format, and whether the empty lower areas must be a fixed size\""
+   "line": "\"cl-6.studio (session_016CrbJJe27HT4pDaUAkSFEi) will deliver a clean vertical Signed film (1080x1920, sound) and a timeline with cast slots (opening card, beside 'Who holds the keys? / You do.', closing card, optional small presenter in history and policy scenes, clear of text and the bottom fifth); please composite the cast with your 'Synthetic presenter' labels for instagram.c, and tell cl-6.studio which characters, which file format, and whether the empty lower areas must be a fixed size\"",
+   "category": "later"
   },
   {
    "id": "vicky-n2-n3",
    "urgency": "next",
    "what": "Two findings for Vicky's team on \"Two studies of agent-written code...\" (cl-6.synthetic, PrompTugal__Agent__Synthetic 6d37860): N2 the \"In short\" still says the second paper was read from its abstract only, though the 27 Nov update says full text; N3 the provenance block claims 6 outside sources on 3 sites, but the markup shows only arXiv and the licence. No agent route to her lane.",
    "where": "Vicky (her journalist-ai and reviewer)",
-   "line": "pass N2 and N3 to Vicky, with PrompTugal__Agent__Synthetic findings-2026-11-27-wake4.md (6d37860)"
+   "line": "pass N2 and N3 to Vicky, with PrompTugal__Agent__Synthetic findings-2026-11-27-wake4.md (6d37860)",
+   "category": "later"
   }
  ],
  "to_review": [
@@ -289,5 +417,6 @@
   }
  ],
  "page": "https://observability.agents.sovereignweb.site/factory/dinis-cruz/account-f/briefing/",
- "note": "Questions for Dinis live in cl-6.decisions' questions.json (agreed 27 Nov); this file keeps sessions, environments and access."
+ "note": "Questions for Dinis live in cl-6.decisions' questions.json (agreed 27 Nov); this file keeps sessions, environments and access.",
+ "schema_note": "waiting_on_dinis items: decision, why, deadline, options[{label, recommended}], answer_line, asked_by, category (decide, know, later), since, details_url; older fields what, where, line, urgency kept for the current briefing page."
 }
