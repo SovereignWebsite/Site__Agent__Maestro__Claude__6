@@ -1,4 +1,4 @@
-# Vicky's team: what it did (generated 2026-11-28 08:37 UTC from PrompTugal__News__Website dev 06bd1a39 2026-11-28T08:28:59+00:00)
+# Vicky's team: what it did (generated 2026-11-28 09:37 UTC from PrompTugal__News__Website dev dbc0893f 2026-11-28T09:15:46+00:00)
 
 Public record only: commit subjects on dev. Her sessions run on her own account, so their status is not visible from account 6.
 
@@ -6,11 +6,11 @@ Public record only: commit subjects on dev. Her sessions run on her own account,
 
 | Agent | Last commit (UTC) | Hours ago | Commit | What |
 |---|---|---|---|---|
-| reviewer@PrompTugal.vicky | 28 Nov 08:05 | 0 | [d2252ad75](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d2252ad75) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| journalist-portugal@PrompTugal.vicky | 28 Nov 07:56 | 0 | [53a5c5703](https://github.com/PrompTugal/PrompTugal__News__Website/commit/53a5c5703) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| reviewer@PrompTugal.vicky | 28 Nov 08:05 | 1 | [d2252ad75](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d2252ad75) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| journalist-portugal@PrompTugal.vicky | 28 Nov 07:56 | 1 | [53a5c5703](https://github.com/PrompTugal/PrompTugal__News__Website/commit/53a5c5703) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
 | curator@PrompTugal.vicky | 28 Nov 07:37 | 1 | [fb1dcda86](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fb1dcda86) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| checker@PrompTugal.vicky | 27 Nov 10:11 | 22 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
-| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 24 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
+| checker@PrompTugal.vicky | 27 Nov 10:11 | 23 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
+| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 25 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
 
 ## The last 48 hours
 
