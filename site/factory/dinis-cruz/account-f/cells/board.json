@@ -1,6 +1,6 @@
 {
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-28T00:57Z",
+ "updated": "2026-11-28T01:47Z",
  "note": "Work cells: one brief, one diff, applied by the owner of the target repository. See decisions/2026-11-27-work-cells.md.",
  "cells": [
   {
@@ -59,8 +59,15 @@
     ]
    },
    "target": "promptugal.news/newsroom (dashboard or status page)",
-   "state": "briefed",
-   "opened": "2026-11-28T00:57Z"
+   "state": "applied",
+   "opened": "2026-11-28T00:57Z",
+   "applied": "https://promptugal.news/newsroom/status/ v0.1.2411 by cl-6.dev (gate and cl-6.security); checked by cl-6.maestro 01:4x UTC: 200, 390px no sideways scroll, page 35,251 px tall",
+   "follow_up": [
+    "designer layout: fold agents and data, page is very long",
+    "glob text \"content/about/**\" renders a stray \"**\"",
+    "Vicky's team needs a real feed",
+    "refresh is twice a day (snapshot at release and wake)"
+   ]
   }
  ]
 }
