@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-28T15:37Z",
+ "updated": "2026-11-28T16:37Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -317,6 +317,10 @@
  "next_brief": "2026-11-28T18:30Z",
  "know": [
   {
+   "at": "2026-11-28T16:11Z",
+   "text": "Regional AI and tech videos: cl-6.videos has a plan (waits on rights and security); BeachCam cards being parked on live.promptugal.news"
+  },
+  {
    "at": "2026-11-28T11:23Z",
    "text": "Resets now urgent: translator 73.7% (near auto-compaction), reviewer 68.8%, ontologist 68.6%, maestro 65.4%, conductor@PrompTugal 59.6%, abp 56.9%"
   },
@@ -331,10 +335,6 @@
   {
    "at": "2026-11-28T02:35Z",
    "text": "Data site: robots.txt 'not found' no longer counts as a failure; euvd and events-pt will show 0 failed from the next collection"
-  },
-  {
-   "at": "2026-11-28T02:06Z",
-   "text": "Status page shorter on a phone (v0.1.2412)"
   }
  ],
  "decisions_moved_to": {

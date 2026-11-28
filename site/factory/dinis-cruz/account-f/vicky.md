@@ -1,4 +1,4 @@
-# Vicky's team: what it did (generated 2026-11-28 15:37 UTC from PrompTugal__News__Website dev f60e7dea 2026-11-28T14:22:35+00:00)
+# Vicky's team: what it did (generated 2026-11-28 16:37 UTC from PrompTugal__News__Website dev 56f4cd6a 2026-11-28T16:33:47+00:00)
 
 Public record only: commit subjects on dev. Her sessions run on her own account, so their status is not visible from account 6.
 
@@ -6,12 +6,12 @@ Public record only: commit subjects on dev. Her sessions run on her own account,
 
 | Agent | Last commit (UTC) | Hours ago | Commit | What |
 |---|---|---|---|---|
-| reporter@PrompTugal.vicky | 28 Nov 10:10 | 5 | [9fe643d23](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9fe643d23) | notes R1 to R3 on how our team uses AI and agents (titles for Vicky first) |
-| reviewer@PrompTugal.vicky | 28 Nov 08:05 | 7 | [d2252ad75](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d2252ad75) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| journalist-portugal@PrompTugal.vicky | 28 Nov 07:56 | 7 | [53a5c5703](https://github.com/PrompTugal/PrompTugal__News__Website/commit/53a5c5703) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| reporter@PrompTugal.vicky | 28 Nov 10:10 | 6 | [9fe643d23](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9fe643d23) | notes R1 to R3 on how our team uses AI and agents (titles for Vicky first) |
+| reviewer@PrompTugal.vicky | 28 Nov 08:05 | 8 | [d2252ad75](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d2252ad75) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| journalist-portugal@PrompTugal.vicky | 28 Nov 07:56 | 8 | [53a5c5703](https://github.com/PrompTugal/PrompTugal__News__Website/commit/53a5c5703) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
 | curator@PrompTugal.vicky | 28 Nov 07:37 | 8 | [fb1dcda86](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fb1dcda86) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| checker@PrompTugal.vicky | 27 Nov 10:11 | 29 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
-| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 31 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
+| checker@PrompTugal.vicky | 27 Nov 10:11 | 30 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
+| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 32 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
 
 ## The last 48 hours
 
@@ -35,6 +35,3 @@ Public record only: commit subjects on dev. Her sessions run on her own account,
 - 27 Nov 07:48 [0dfb1197a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/0dfb1197a) journalist-ai@PrompTugal.vicky: update note S87 on S85: the review study's full text, merge shares and limits
 - 27 Nov 07:38 [047c108af](https://github.com/PrompTugal/PrompTugal__News__Website/commit/047c108af) curator@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
 - 27 Nov 07:38 [492b061c6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/492b061c6) curator@PrompTugal.vicky: 27 Nov 07:50 map, S87 commissioned (update note on S85 from the review paper's PDF); S85 marked published
-- 26 Nov 15:46 [52c699342](https://github.com/PrompTugal/PrompTugal__News__Website/commit/52c699342) reviewer@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
-- 26 Nov 15:46 [3cd18ddd9](https://github.com/PrompTugal/PrompTugal__News__Website/commit/3cd18ddd9) reviewer@PrompTugal.vicky: S86 published, "What 99.9% uptime covers: how five providers count downtime"
-- 26 Nov 15:38 [4c738808b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4c738808b) journalist-ai@PrompTugal.vicky: fix S86 after the reviewer's round 1 (Anthropic legacy tier, Google 95% models, GitLab hosted, AWS efforts)
