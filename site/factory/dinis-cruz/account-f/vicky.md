@@ -1,4 +1,4 @@
-# Vicky's team: what it did (generated 2026-11-28 07:37 UTC from PrompTugal__News__Website dev df2253d9 2026-11-28T06:55:11+00:00)
+# Vicky's team: what it did (generated 2026-11-28 08:37 UTC from PrompTugal__News__Website dev 06bd1a39 2026-11-28T08:28:59+00:00)
 
 Public record only: commit subjects on dev. Her sessions run on her own account, so their status is not visible from account 6.
 
@@ -6,13 +6,20 @@ Public record only: commit subjects on dev. Her sessions run on her own account,
 
 | Agent | Last commit (UTC) | Hours ago | Commit | What |
 |---|---|---|---|---|
-| curator@PrompTugal.vicky | 27 Nov 15:38 | 15 | [a90a08acc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a90a08acc) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| checker@PrompTugal.vicky | 27 Nov 10:11 | 21 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
-| reviewer@PrompTugal.vicky | 27 Nov 08:11 | 23 | [8041784e6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8041784e6) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 23 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
+| reviewer@PrompTugal.vicky | 28 Nov 08:05 | 0 | [d2252ad75](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d2252ad75) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| journalist-portugal@PrompTugal.vicky | 28 Nov 07:56 | 0 | [53a5c5703](https://github.com/PrompTugal/PrompTugal__News__Website/commit/53a5c5703) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| curator@PrompTugal.vicky | 28 Nov 07:37 | 1 | [fb1dcda86](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fb1dcda86) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| checker@PrompTugal.vicky | 27 Nov 10:11 | 22 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
+| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 24 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
 
 ## The last 48 hours
 
+- 28 Nov 08:05 [d2252ad75](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d2252ad75) reviewer@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
+- 28 Nov 08:05 [4be47df09](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4be47df09) reviewer@PrompTugal.vicky: S88 published, first update note on S64 (AMALIA's second phase, from ECO)
+- 28 Nov 07:56 [53a5c5703](https://github.com/PrompTugal/PrompTugal__News__Website/commit/53a5c5703) journalist-portugal@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
+- 28 Nov 07:56 [dd54c3504](https://github.com/PrompTugal/PrompTugal__News__Website/commit/dd54c3504) journalist-portugal@PrompTugal.vicky: S88 draft, update note on S64
+- 28 Nov 07:37 [fb1dcda86](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fb1dcda86) curator@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
+- 28 Nov 07:37 [9754e1c6a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9754e1c6a) curator@PrompTugal.vicky: 28 Nov 07:50 map, S88 commissioned (update note on S64, Amalia's second phase); S87 marked published
 - 27 Nov 15:38 [a90a08acc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a90a08acc) curator@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
 - 27 Nov 15:37 [64947c513](https://github.com/PrompTugal/PrompTugal__News__Website/commit/64947c513) curator@PrompTugal.vicky: 27 Nov 15:50 map, nothing to commission (DORA 2025 and a 500k-sample paper held); S86 marked published; Official Journal gap dropped (
 - 27 Nov 10:11 [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) checker@PrompTugal.vicky: 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged
@@ -37,11 +44,3 @@ Public record only: commit subjects on dev. Her sessions run on her own account,
 - 26 Nov 14:37 [69a6abce0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/69a6abce0) curator@PrompTugal.vicky: 26 Nov map, S86 commissioned (what an uptime promise covers), at Vicky's word via the conductor
 - 26 Nov 10:16 [15d05b4b7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/15d05b4b7) checker@PrompTugal.vicky: 26 Nov findings' check times corrected (about 10:12 UTC)
 - 26 Nov 10:13 [8fa384548](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8fa384548) checker@PrompTugal.vicky: 26 Nov check: six findings files on cl-6.journalist@'s seven new articles (8 findings)
-- 26 Nov 08:04 [8b264ead6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8b264ead6) reviewer@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
-- 26 Nov 08:04 [ae5b8f617](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ae5b8f617) reviewer@PrompTugal.vicky: S85 published, "Two studies of agent-written code point to size and review"
-- 26 Nov 07:59 [4c58a4613](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4c58a4613) reviewer@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
-- 26 Nov 07:59 [879803cc0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/879803cc0) reviewer@PrompTugal.vicky: A5 published, "Cost holds back Portuguese firms from AI more than EU peers"
-- 26 Nov 07:47 [81602c768](https://github.com/PrompTugal/PrompTugal__News__Website/commit/81602c768) journalist-ai@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
-- 26 Nov 07:47 [faa457d50](https://github.com/PrompTugal/PrompTugal__News__Website/commit/faa457d50) journalist-ai@PrompTugal.vicky: draft S85: two studies of agent-written code point to size and review
-- 26 Nov 07:38 [5e17733a8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5e17733a8) curator@PrompTugal.vicky: derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh)
-- 26 Nov 07:38 [b634f9ce2](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b634f9ce2) curator@PrompTugal.vicky: 26 Nov 07:50 map, S85 commissioned (two more studies of agent-written code); S84 marked published
