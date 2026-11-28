@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-28T02:31Z",
+ "updated": "2026-11-28T02:36Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -262,6 +262,11 @@
  },
  "changes": [
   {
+   "at": "2026-11-28T02:35Z",
+   "kind": "released",
+   "text": "Data failure counts fixed (robots.txt), first source health files for euvd and social"
+  },
+  {
    "at": "2026-11-28T02:06Z",
    "kind": "released",
    "text": "Status page shorter on a phone (v0.1.2412)"
@@ -307,6 +312,10 @@
  "next_brief": "2026-11-28T08:30Z",
  "know": [
   {
+   "at": "2026-11-28T02:35Z",
+   "text": "Data site: robots.txt 'not found' no longer counts as a failure; euvd and events-pt will show 0 failed from the next collection"
+  },
+  {
    "at": "2026-11-28T02:06Z",
    "text": "Status page shorter on a phone (v0.1.2412)"
   },
@@ -321,10 +330,6 @@
   {
    "at": "2026-11-28T01:1xZ",
    "text": "The maestro now has its own sealed inbox lane"
-  },
-  {
-   "at": "2026-11-28T00:58Z",
-   "text": "Data status feed published: 30 datasets, 23 fresh, 6 with source problems"
   }
  ],
  "decisions_moved_to": {
