@@ -1,7 +1,7 @@
 {
  "about": "Dinis's briefing for account 6: what waits on him, projects, recent decisions, items to review. Kept by cl-6.maestro@dinis at every hourly wake; read live by the briefing page. Links only, no secrets.",
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-28T10:36Z",
+ "updated": "2026-11-28T11:25Z",
  "sources": {
   "sessions": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/sessions.json",
   "cost_events": "https://raw.githubusercontent.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/dev/site/factory/dinis-cruz/account-f/cost-events.json",
@@ -317,6 +317,10 @@
  "next_brief": "2026-11-28T18:30Z",
  "know": [
   {
+   "at": "2026-11-28T11:23Z",
+   "text": "Resets now urgent: translator 73.7% (near auto-compaction), reviewer 68.8%, ontologist 68.6%, maestro 65.4%, conductor@PrompTugal 59.6%, abp 56.9%"
+  },
+  {
    "at": "2026-11-28T07:12Z",
    "text": "Data collected this morning (v0.1.172, 29 sources); one new question for you about keeping past events"
   },
@@ -331,10 +335,6 @@
   {
    "at": "2026-11-28T02:06Z",
    "text": "Status page shorter on a phone (v0.1.2412)"
-  },
-  {
-   "at": "2026-11-28T01:46Z",
-   "text": "PrompTugal status page live at /newsroom/status/ (v0.1.2411)"
   }
  ],
  "decisions_moved_to": {
