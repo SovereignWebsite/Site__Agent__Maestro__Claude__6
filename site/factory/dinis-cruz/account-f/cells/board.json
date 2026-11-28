@@ -1,6 +1,6 @@
 {
  "kept_by": "cl-6.maestro@dinis",
- "updated": "2026-11-27T15:25Z",
+ "updated": "2026-11-28T00:57Z",
  "note": "Work cells: one brief, one diff, applied by the owner of the target repository. See decisions/2026-11-27-work-cells.md.",
  "cells": [
   {
@@ -40,6 +40,27 @@
     "where the Google Search API access lives (environment or key)",
     "Dinis's yes to start cell sessions, and cl-6.abp's cell role grant"
    ]
+  },
+  {
+   "id": "2026-11-28-promptugal-status",
+   "brief": "cells/2026-11-28-promptugal-status/brief.md",
+   "objective": "PrompTugal admin status page: every agent, what it is doing, the state of the data, waits on Dinis",
+   "roles": {
+    "feeds": [
+     "cl-6.observability@dinis",
+     "cl-6.data@PrompTugal.dinis"
+    ],
+    "design": "cl-6.designer@PrompTugal.dinis",
+    "dev": "cl-6.dev@PrompTugal.dinis",
+    "apply": "session with the website (waits on Dinis)",
+    "review": [
+     "cl-6.maestro@dinis",
+     "cl-6.conductor@PrompTugal.dinis"
+    ]
+   },
+   "target": "promptugal.news/newsroom (dashboard or status page)",
+   "state": "briefed",
+   "opened": "2026-11-28T00:57Z"
   }
  ]
 }
