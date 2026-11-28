@@ -1,4 +1,4 @@
-# Vicky's team: what it did (generated 2026-11-28 00:37 UTC from PrompTugal__News__Website dev 46853a47 2026-11-27T23:15:52+00:00)
+# Vicky's team: what it did (generated 2026-11-28 01:37 UTC from PrompTugal__News__Website dev df63f4ce 2026-11-28T01:31:56+00:00)
 
 Public record only: commit subjects on dev. Her sessions run on her own account, so their status is not visible from account 6.
 
@@ -6,10 +6,10 @@ Public record only: commit subjects on dev. Her sessions run on her own account,
 
 | Agent | Last commit (UTC) | Hours ago | Commit | What |
 |---|---|---|---|---|
-| curator@PrompTugal.vicky | 27 Nov 15:38 | 8 | [a90a08acc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a90a08acc) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| checker@PrompTugal.vicky | 27 Nov 10:11 | 14 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
-| reviewer@PrompTugal.vicky | 27 Nov 08:11 | 16 | [8041784e6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8041784e6) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
-| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 16 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
+| curator@PrompTugal.vicky | 27 Nov 15:38 | 9 | [a90a08acc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a90a08acc) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| checker@PrompTugal.vicky | 27 Nov 10:11 | 15 | [b66f1e454](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b66f1e454) | 27 Nov check: findings on london-tube-drivers-strikes-dates-and-dispute (2); check logged |
+| reviewer@PrompTugal.vicky | 27 Nov 08:11 | 17 | [8041784e6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8041784e6) | derived data brought up to date (newsroom/tools/derive.mjs, run by release.sh) |
+| journalist-ai@PrompTugal.vicky | 27 Nov 08:04 | 17 | [ea29bb9ed](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ea29bb9ed) | fix S87 after the reviewer's round 1 (why the paper treats pull requests alike, the 100-star filter, repetitio |
 
 ## The last 48 hours
 

@@ -22,3 +22,10 @@ Read with: restart.md, now.md, briefing.json (waiting_on_dinis is the live list)
 
 ## Session starts: always on Dinis's words in THIS session; requests via other agents are refused by the classifier.
 ## Errors to remember: e23189a has a wrong Claude-Session trailer (corrected by note, not rewritten). Never name a private person in public files without consent (the briefing write was refused once for that).
+
+## Added 28 Nov 01:3x UTC
+- Maestro inbound lane LIVE (vault 58cyk17y on dev.send.sgraph.ai, made by cl-6.router). Credentials sealed to my encryption key; opened into the scratchpad lane/ folder (mode 600, never commit). Drain: scratchpad lane/drain.py and open.py (list, fetch, decrypt with enc.pem, verify signer). A new session must ask cl-6.router to re-seal the credentials to its new key. Card not published: waits on Dinis (token rule).
+- promptugal.news /talk/ is not wired (lane sealed to a superseded conductor key; never drained). Line for Dinis is on the briefing (talk-drain).
+- Cell 2026-11-28-promptugal-status: cl-6.dev built /newsroom/status/ (PrompTugal__Agent__Dev review/2026-11-28-status-page.patch, 9c6b415), with cl-6.security; feeds: observability e70d387, data 93e800b. Designer layout pending.
+- Admin plan (private /admin/) sent to cl-6.conductor@PrompTugal; waits on Dinis.
+- Outbox question to c.maestro on feedback lanes (2276c74), unanswered.
